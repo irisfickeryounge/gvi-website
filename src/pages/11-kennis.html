@@ -1,0 +1,115 @@
+<!--META
+title: Kennis & inzichten over verantwoord AI-gebruik | GVI
+desc: Artikelen en praktische inzichten over verantwoord AI-gebruik — zonder hype, zonder paniek. AI-geletterdheid, AI Act, soevereiniteit en praktische use-cases.
+path: /kennis/
+-->
+
+    <section class="op-donker sectie-strak">
+            <div class="wrap" style="padding-block: 2.5rem;">
+        <span class="kicker">Kennis</span>
+        <h1>Kennis &amp; <span class="accent">inzichten</span></h1>
+        <p class="sub" style="font-size: 1.18rem; max-width: 40em;">Artikelen en praktische inzichten over verantwoord AI-gebruik — zonder hype, zonder paniek.</p>
+      </div>
+    </section>
+
+    <section>
+      <div class="wrap">
+        <div class="chip-rij reveal" aria-label="Onderwerpen">
+          <span class="chip">AI-geletterdheid</span>
+          <span class="chip">AI Act &amp; governance</span>
+          <span class="chip">Digitale soevereiniteit</span>
+          <span class="chip">AI in de publieke sector</span>
+          <span class="chip">AI voor MKB</span>
+          <span class="chip">Menselijk werk en AI</span>
+          <span class="chip">Praktische use-cases</span>
+        </div>
+        <div class="grid grid-3" style="margin-top: 2.2rem;">
+          <div class="card reveal">
+            <span class="placeholder-label">Placeholder · binnenkort</span>
+            <h3>AI Act zonder paniek: waar begin je?</h3>
+            <p class="mini-noot">[Korte intro van het artikel — volgt]</p>
+            <p class="mini-noot">[datum] · <span class="pijl">Lees meer →</span></p>
+          </div>
+          <div class="card reveal">
+            <span class="placeholder-label">Placeholder · binnenkort</span>
+            <h3>Waarom AI-adoptie geen prompttraining is.</h3>
+            <p class="mini-noot">[Korte intro van het artikel — volgt]</p>
+            <p class="mini-noot">[datum] · <span class="pijl">Lees meer →</span></p>
+          </div>
+          <div class="card reveal">
+            <span class="placeholder-label">Placeholder · binnenkort</span>
+            <h3>Van FOMO naar regie: eerste stappen voor MKB.</h3>
+            <p class="mini-noot">[Korte intro van het artikel — volgt]</p>
+            <p class="mini-noot">[datum] · <span class="pijl">Lees meer →</span></p>
+          </div>
+        </div>
+        <p class="mini-noot" style="margin-top: 1.6rem;">De eerste artikelen verschijnen binnenkort — er worden geen nep-artikelen gepubliceerd.</p>
+      </div>
+    </section>
+
+    <!-- ===== Downloads / lead magnets ===== -->
+    <section class="sectie-mist">
+      <div class="wrap">
+        <div class="reveal">
+          <span class="kicker">Downloads</span>
+          <h2>Gratis kennis om mee te beginnen</h2>
+          <p class="intro-groot">Laat je gegevens achter en je ontvangt de download per e-mail.</p>
+        </div>
+        <div class="grid grid-3" style="margin-top: 2.2rem;">
+          <div class="card download-kaart card-uitgelicht reveal">
+            <span class="voorwie-label">Whitepaper · PDF</span>
+            <h3>AI met menselijke maat — verantwoord starten in vijf stappen</h3>
+            <p>De GVI-route van overzicht naar een veilige eerste stap: praktisch, zonder hype, met checklist per stap.</p>
+            <button type="button" class="knop knop-licht" data-download="Whitepaper: AI met menselijke maat — verantwoord starten in vijf stappen" data-file="/downloads/gvi-whitepaper-ai-met-menselijke-maat.pdf">↓ Gratis download</button>
+          </div>
+          <div class="card download-kaart reveal">
+            <span class="voorwie-label">Whitepaper · PDF</span>
+            <h3>AI-geletterdheid als mensenwerk</h3>
+            <p>Een meerjarig actieplan in vier fasen — voorbij het compliance-vinkje: leren in het eigen werk, voorleven door de leiding.</p>
+            <button type="button" class="knop knop-licht" data-download="Whitepaper: AI-geletterdheid als mensenwerk" data-file="/downloads/gvi-whitepaper-ai-geletterdheid.pdf">↓ Gratis download</button>
+          </div>
+          <div class="card download-kaart reveal">
+            <span class="placeholder-label">Placeholder</span>
+            <h3>[Werkboekje — titel]</h3>
+            <p>[Praktisch werkboekje om zelf mee aan de slag te gaan — volgt]</p>
+            <button type="button" class="knop knop-licht" data-download="Werkboekje">↓ Gratis download</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="op-donker">
+      
+      <div class="wrap centreer">
+        <h2>Liever een <span class="accent">gesprek</span> dan een artikel?</h2>
+        <div class="cta-rij" style="justify-content: center;">
+          <a class="knop knop-donker" href="/contact/">Plan een verkennend gesprek</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== Download-modal (herbruikbaar) ===== -->
+    <dialog class="modal" id="download-modal" aria-labelledby="dl-kop">
+      <div class="modal-binnen">
+        <button type="button" class="modal-sluit" aria-label="Sluiten">✕</button>
+        <h3 id="dl-kop">Download aanvragen</h3>
+        <p class="mini-noot">Je vraagt aan: <strong id="dl-titel"></strong></p>
+        <form novalidate>
+          <div class="veld">
+            <label for="dl-naam">Naam</label>
+            <input type="text" id="dl-naam" name="naam" required autocomplete="name">
+          </div>
+          <div class="veld">
+            <label for="dl-org">Organisatie</label>
+            <input type="text" id="dl-org" name="organisatie" required autocomplete="organization">
+          </div>
+          <div class="veld">
+            <label for="dl-email">E-mailadres</label>
+            <input type="email" id="dl-email" name="email" required autocomplete="email">
+          </div>
+          <p class="mini-noot">[PLACEHOLDER: AVG/privacy-zin bij formulier] — zie de <a href="/privacy/">privacyverklaring</a>.</p>
+          <button type="submit" class="knop knop-donker">Vraag download aan</button>
+          <div class="form-status" role="status" aria-live="polite"></div>
+        </form>
+      </div>
+    </dialog>

@@ -1,0 +1,32 @@
+# GVI — Global Voice Intelligence
+
+> Onafhankelijke Nederlandse AI-partner voor MKB en publieke organisaties. GVI helpt organisaties AI verantwoord inzetten — met overzicht over kansen, risico's, mensen, data en leveranciers. Kernwaarden: menselijke maat, publieke waarden, digitale soevereiniteit, onafhankelijkheid (geen tool- of vendorbelang).
+
+Tagline: AI met menselijke maat. Regie op AI, meer tijd voor het werk dat er echt toe doet.
+Taal: Nederlands. Werkgebied: Nederland. Doelgroepen: MKB (20–250 medewerkers) en publieke/maatschappelijke organisaties (gemeenten, onderwijs, zorg, welzijn, uitvoeringsorganisaties).
+Contact: irisfickeryounge@gmail.com · https://www.globalvoiceintelligence.com/contact/
+Oprichter: Iris Ficker Younge (beleid, onderwijs, ondernemerschap, duurzaamheid, AI, systeemdenken).
+
+## Diensten
+
+- [AI Regie Scan](https://www.globalvoiceintelligence.com/ai-regie-scan/): "Waar moeten wij beginnen met AI?" — snel overzicht van kansen, risico's, prioriteiten en eerste stappen. De laagdrempelige instap; geen audit, strategie of implementatie.
+- [AI Audit & Governance](https://www.globalvoiceintelligence.com/ai-audit-governance/): "Kunnen we AI verantwoord en beheersbaar inzetten?" — risico's, governance, AI Act/AVG, vendor lock-in en menselijke controle, begrijpelijk voor management en teams.
+- [AI Strategie & Roadmap](https://www.globalvoiceintelligence.com/ai-strategie-roadmap/): "Welke richting kiezen we, en hoe maken we dit uitvoerbaar?" — prioriteiten, businesscase, governanceprincipes en een roadmap van 3–12 maanden.
+- [AI Workflow / Pilot Implementatie](https://www.globalvoiceintelligence.com/ai-workflow-pilot/): "We hebben een use-case — hoe testen of bouwen we die?" — één concrete workflow, agent of pilot ontwerpen, testen en overdraagbaar maken.
+- [Innoveren met AI](https://www.globalvoiceintelligence.com/innoveren-met-ai/): nieuwe diensten, proposities en klantwaarde ontwerpen in co-creatie. Werkvormen: AI Innovatie Sprint, AI Co-creatie Traject, AI Propositie Lab, AI Experiment Portfolio.
+- [AI-geletterdheid & Adoptie](https://www.globalvoiceintelligence.com/ai-geletterdheid-adoptie/): planmatige opbouw van AI-geletterdheid in vier fasen (bewustwording, leren in het eigen werk, afspraken & voorleven, borgen & vernieuwen). AI-geletterdheid is sinds de AI Act (art. 4) verplicht; GVI vult die menselijk en praktisch in.
+- [AI Trainingen](https://www.globalvoiceintelligence.com/ai-trainingen/): basisworkshop AI/Copilot, Prompting Pro, AI-clinic met eigen documenten, tekst & beleid, mini-agent workshop, AI-geletterdheid voor leidinggevenden, AI Impact Dag (eendaagse MT-deep-dive) en keynotes.
+
+## Overige pagina's
+
+- [Aanpak](https://www.globalvoiceintelligence.com/aanpak/): de route Zien — Kiezen — Doen en vijf principes (menselijke maat, publieke waarden, digitale soevereiniteit, onafhankelijkheid, governance én adoptie vanaf dag één).
+- [Voor MKB](https://www.globalvoiceintelligence.com/voor-mkb/): praktische AI-stappen voor bedrijven van 20–250 medewerkers, zonder lock-in.
+- [Voor publieke organisaties](https://www.globalvoiceintelligence.com/voor-publieke-organisaties/): AI met publieke waarden, uitlegbaarheid, AI Act/AVG en governance.
+- [Over GVI](https://www.globalvoiceintelligence.com/over-gvi/): missie, oprichter en waarden.
+- [Kennis & inzichten](https://www.globalvoiceintelligence.com/kennis/): artikelen over verantwoord AI-gebruik (in opbouw).
+- [Contact](https://www.globalvoiceintelligence.com/contact/): verkennend gesprek plannen; reactie binnen twee werkdagen.
+
+## Gratis downloads (na e-mailopgave)
+
+- Whitepaper "AI met menselijke maat — verantwoord starten met AI in vijf stappen" (PDF, 11 pag.)
+- Whitepaper "AI-geletterdheid als mensenwerk — een actieplan in vier fasen" (PDF, 11 pag.)

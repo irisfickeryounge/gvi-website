@@ -1,0 +1,90 @@
+<!--META
+title: Contact — plan een verkennend gesprek | GVI
+desc: Vertel kort waar je staat en waar je tegenaan loopt. Je krijgt altijd een persoonlijke reactie — van een mens, meestal binnen een paar werkdagen.
+path: /contact/
+-->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "name": "Contact — GVI",
+  "url": "https://www.globalvoiceintelligence.com/contact/"
+}
+</script>
+
+    <section class="op-donker sectie-strak">
+      <div class="art-laag" aria-hidden="true">{{ART_SUBTIEL}}</div>
+      <div class="wrap" style="padding-block: 2.5rem;">
+        <span class="kicker">Contact</span>
+        <h1>Plan een verkennend <span class="accent">gesprek</span></h1>
+        <p class="sub" style="font-size: 1.18rem; max-width: 40em;">Vertel kort waar je staat en waar je tegenaan loopt. Je krijgt altijd een persoonlijke reactie — van een mens, niet van een bot. Meestal binnen een paar werkdagen.</p>
+        <!-- ZOMER-NOOT: verwijderen na 6 aug -->
+        <p class="mini-noot" style="margin-top: .6rem; max-width: 40em;">Van 17 juli t/m 6 augustus ben ik op reis — reacties kunnen dan wat langer duren.</p>
+        <!-- /ZOMER-NOOT -->
+      </div>
+    </section>
+
+    <section>
+      <div class="wrap form-grid">
+        <div class="reveal">
+          <form id="contact-form" novalidate>
+            <div class="veld">
+              <label for="naam">Naam</label>
+              <input type="text" id="naam" name="naam" required autocomplete="name">
+              <p class="foutmelding">Vul je naam in.</p>
+            </div>
+            <div class="veld">
+              <label for="organisatie">Naam van je organisatie</label>
+              <input type="text" id="organisatie" name="organisatie" required autocomplete="organization">
+              <p class="foutmelding">Vul de naam van je organisatie in.</p>
+            </div>
+            <div class="veld">
+              <label for="email">Zakelijk e-mailadres</label>
+              <input type="email" id="email" name="email" required autocomplete="email">
+              <p class="foutmelding">Vul een geldig zakelijk e-mailadres in.</p>
+            </div>
+            <div class="veld">
+              <label for="telefoon">Telefoonnummer <span class="optioneel">(optioneel)</span></label>
+              <input type="tel" id="telefoon" name="telefoon" autocomplete="tel">
+            </div>
+            <div class="veld">
+              <label for="onderwerp">Waar gaat je interesse naar uit?</label>
+              <select id="onderwerp" name="onderwerp">
+                <option>AI Regie Scan</option>
+                <option>AI Audit &amp; Governance</option>
+                <option>AI Strategie &amp; Roadmap</option>
+                <option>AI Workflow of pilot</option>
+                <option>Innoveren met AI</option>
+                <option>AI-geletterdheid &amp; Adoptie</option>
+                <option>AI-training of workshop</option>
+                <option>AI Impact Dag</option>
+                <option>Keynote of presentatie</option>
+                <option>Anders / weet ik nog niet</option>
+              </select>
+            </div>
+            <div class="veld">
+              <label for="bericht">Omschrijf je vraag</label>
+              <textarea id="bericht" name="bericht" rows="6" required></textarea>
+              <p class="foutmelding">Omschrijf kort waar je vraag over gaat.</p>
+            </div>
+            <div class="veld">
+              <div class="checkbox-veld">
+                <input type="checkbox" id="privacy" name="privacy" required>
+                <label for="privacy">Ik ga akkoord met de verwerking van mijn gegevens om contact met mij op te nemen. Zie de <a href="/privacy/">privacyverklaring</a>.</label>
+              </div>
+              <p class="foutmelding">Vink de privacy-checkbox aan om te kunnen versturen.</p>
+            </div>
+            <button type="submit" class="knop knop-donker">Verstuur bericht</button>
+            <div id="form-status" class="form-status" role="status" aria-live="polite"></div>
+          </form>
+          <p class="mini-noot" style="margin-top: 1rem;">Je gegevens worden alleen gebruikt om je vraag te beantwoorden.</p>
+        </div>
+        <aside class="card reveal">
+          <h3>Liever direct?</h3>
+          <p>irisfickeryounge+gvi@gmail.com</p>
+          <p><a href="https://www.linkedin.com/in/iris-ficker-8ab404204/" target="_blank" rel="noopener">LinkedIn</a></p>
+          <p class="mini-noot">We verzamelen niet meer gegevens dan nodig.</p>
+          <!-- Plek voor agenda-embed (Cal.com) — fase 2, zie README -->
+        </aside>
+      </div>
+    </section>
