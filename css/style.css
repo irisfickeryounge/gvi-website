@@ -486,6 +486,14 @@ input:focus, select:focus, textarea:focus { border-color: var(--fuchsia); outlin
 .quote-tekst { font: 600 1.25rem/1.55 var(--font-kop); color: var(--nachtpaars); margin-bottom: 1rem; }
 .quote-bron { color: var(--inkt-zacht); font-size: .95rem; }
 
+/* Quote binnen een case-kaart — ingetogen, geen kaart-in-kaart */
+.case-quote {
+  margin: 1.4rem 0 0; padding-left: 1.1rem;
+  border-left: 3px solid var(--fuchsia);
+}
+.case-quote p { font: 600 1.05rem/1.6 var(--font-kop); color: var(--nachtpaars); margin: 0 0 .5rem; }
+.case-quote cite { display: block; font-style: normal; color: var(--inkt-zacht); font-size: .92rem; }
+
 /* ---------- Case-kaarten (Situatie → Aanpak → Resultaat) ---------- */
 .case-kaart h3 { margin-bottom: 1rem; }
 .case-stap { margin-bottom: .8rem; }
