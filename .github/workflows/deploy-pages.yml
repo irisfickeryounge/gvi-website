@@ -13,14 +13,14 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: ${{ vars.PAGES_RUNNER || 'ubuntu-latest' }}
     steps:
       - name: Checkout website
         uses: actions/checkout@v6
