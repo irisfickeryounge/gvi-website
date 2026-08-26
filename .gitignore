@@ -2,3 +2,8 @@
 *.pyc
 __pycache__/
 .claude/
+
+# Lokale werk- en overdrachtsdocumenten; niet publiceren in de publieke webrepo
+AGENTS.md
+BRAND_SYSTEM.md
+HANDOFF.md

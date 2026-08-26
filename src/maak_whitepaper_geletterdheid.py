@@ -126,7 +126,7 @@ def slotpagina(c, doc):
         "•  AI Regie Scan — in één sessie weten waar je staat",
         "",
         "www.globalvoiceintelligence.com",
-        "irisfickeryounge+gvi@gmail.com",
+        "globalvoiceintelligence.com/contact/",
     ]
     y = H * 0.62 - 12 * mm
     for r in regels:

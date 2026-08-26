@@ -16,7 +16,6 @@
  */
 
 var AFZENDER_NAAM = 'Iris Ficker-Younge — GVI';
-var ANTWOORD_ADRES = 'irisfickeryounge+gvi@gmail.com';
 var WEBSITE = 'globalvoiceintelligence.com';
 var LABEL_NAAM = 'GVI-bevestigd';
 var MAX_LEEFTIJD = 'newer_than:2d'; // oudere mails nooit alsnog beantwoorden
@@ -42,8 +41,7 @@ function verstuurBevestigingen() {
 
       var mail = steldMailSamen(onderwerp, tekst);
       GmailApp.sendEmail(naar, mail.onderwerp, mail.tekst, {
-        name: AFZENDER_NAAM,
-        replyTo: ANTWOORD_ADRES
+        name: AFZENDER_NAAM
       });
     });
     thread.addLabel(label);

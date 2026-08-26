@@ -3,14 +3,15 @@ title: [Artikeltitel] | Kennis — GVI
 desc: [Korte samenvatting van het artikel — volgt]
 path: /kennis/voorbeeld-artikel/
 sitemap: nee
+build: nee
 jsonld: <meta name="robots" content="noindex">
 -->
 
-    <section class="op-donker sectie-strak">
-      <div class="wrap" style="padding-block: 2.5rem; max-width: 860px;">
+    <section class="page-hero">
+      <div class="wrap tekst-pagina">
         <span class="kicker">[Categorie: Menselijke maat · Soevereiniteit · AI-geletterdheid · Governance]</span>
         <h1>[Artikeltitel — <span class="accent">accentwoord</span>]</h1>
-        <p class="sub" style="max-width: 40em;">[Eén zin die samenvat waarom dit artikel het lezen waard is.]</p>
+        <p class="sub">[Eén zin die samenvat waarom dit artikel het lezen waard is.]</p>
         <p class="mini-noot">[datum] · [leestijd] min leestijd · door Iris Ficker Younge</p>
       </div>
     </section>
@@ -38,7 +39,7 @@ jsonld: <meta name="robots" content="noindex">
         <p>[Afsluitende alinea met een concrete handreiking.]</p>
 
         <hr class="zacht">
-        <p class="mini-noot">Verder praten over dit onderwerp? <a href="/contact/">Plan een verkennend gesprek</a> of <a href="/ai-regie-scan/">bekijk de AI Regie Scan</a>.</p>
+        <p class="mini-noot">Verder praten over dit onderwerp? <a href="/contact/">Plan een verkennend gesprek</a> of <a href="/ai-regie-scan/">bekijk de AI Operations Sprint</a>.</p>
       </div>
     </article>
 
@@ -46,13 +47,13 @@ jsonld: <meta name="robots" content="noindex">
       <div class="wrap">
         <div class="nieuwsbrief-blok">
           <div class="art-laag" aria-hidden="true">{{ART_SUBTIEL}}</div>
-          <h2 style="font-size: 1.4rem;">AI met menselijke maat, <span class="accent">in je inbox</span></h2>
-          <p style="max-width: 38em;">Af en toe een heldere, praktische mail. Geen hype, geen spam.</p>
-          <form class="nieuwsbrief-form nieuwsbrief" novalidate aria-label="Nieuwsbrief-inschrijving">
-            <label for="nb-email-art" style="position:absolute;left:-9999px;">E-mailadres</label>
-            <input type="email" id="nb-email-art" name="email" placeholder="jouw@emailadres.nl" required>
+          <h2 class="compact-heading">Nieuwe inzichten in je inbox</h2>
+          <p class="measure">Af en toe een heldere, praktische mail. Geen hype, geen spam.</p>
+          <form class="nieuwsbrief-form nieuwsbrief" method="post" novalidate aria-label="Nieuwsbrief-inschrijving">
+            <label class="visually-hidden" for="nb-email-art">E-mailadres</label>
+            <input type="email" id="nb-email-art" name="email" placeholder="jouw@emailadres.nl" required autocomplete="email">
             <button type="submit" class="knop knop-licht">Inschrijven</button>
-            <p class="form-status mini-noot" role="status" aria-live="polite" style="flex-basis:100%;margin:0;"></p>
+            <p class="form-status mini-noot form-status-inline" role="status" aria-live="polite"></p>
           </form>
         </div>
       </div>

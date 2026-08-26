@@ -2,3 +2,8 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.globalvoiceintelligence.com/sitemap.xml
+
+# AI-assistenten: beknopt overzicht
+# https://www.globalvoiceintelligence.com/llms.txt
+# AI-assistenten: volledige sitetekst
+# https://www.globalvoiceintelligence.com/llms-full.txt

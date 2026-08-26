@@ -3,23 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Voor wie — MKB en publieke sector | GVI</title>
-  <meta name="description" content="AI-advies voor MKB en publieke organisaties: kies je route en zie direct hoe GVI jouw vragen beantwoordt.">
+  <title>Voor wie — van solofounder tot publieke organisatie | GVI</title>
+  <meta name="description" content="Beginvragen voor ZZP en solofounders, MKB, teams, MT en directie, en publieke of maatschappelijke organisaties.">
   <link rel="canonical" href="https://www.globalvoiceintelligence.com/voor-wie/">
   <meta property="og:type" content="website">
   <meta property="og:locale" content="nl_NL">
   <meta property="og:site_name" content="GVI — Global Voice Intelligence">
-  <meta property="og:title" content="Voor wie — MKB en publieke sector | GVI">
-  <meta property="og:description" content="AI-advies voor MKB en publieke organisaties: kies je route en zie direct hoe GVI jouw vragen beantwoordt.">
+  <meta property="og:title" content="Voor wie — van solofounder tot publieke organisatie | GVI">
+  <meta property="og:description" content="Beginvragen voor ZZP en solofounders, MKB, teams, MT en directie, en publieke of maatschappelijke organisaties.">
   <meta property="og:url" content="https://www.globalvoiceintelligence.com/voor-wie/">
   <meta property="og:image" content="https://www.globalvoiceintelligence.com/assets/og-image.jpg">
   <meta name="twitter:card" content="summary_large_image">
-  <link rel="icon" href="/assets/favicon-48.png" type="image/png">
-  <link rel="apple-touch-icon" href="/assets/gvi-monogram-192.png">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Sora:wght@600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/css/style.css">
+  <meta name="theme-color" content="#261840">
+  <link rel="icon" href="/assets/favicons/favicon.ico" sizes="any">
+  <link rel="icon" href="/assets/favicons/gvi-favicon-master.svg" type="image/svg+xml">
+  <link rel="icon" href="/assets/favicons/gvi-favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="icon" href="/assets/favicons/gvi-favicon-16.png" sizes="16x16" type="image/png">
+  <link rel="apple-touch-icon" href="/assets/favicons/gvi-favicon-180.png" sizes="180x180">
+  <link rel="manifest" href="/assets/favicons/site.webmanifest">
+  <script>document.documentElement.classList.add('js');</script>
+  <link rel="stylesheet" href="/css/style.css?v=20260826-home-final-2">
   <!-- Privacyvriendelijke analytics (Plausible): pas activeren als Iris dat wil.
   <script defer data-domain="globalvoiceintelligence.com" src="https://plausible.io/js/script.js"></script>
   -->
@@ -31,32 +34,67 @@
   <header class="site-header">
     <div class="wrap nav-bar">
       <a class="brand" href="/" aria-label="GVI — Global Voice Intelligence, naar de homepage">
-        <img class="brand-logo" src="/assets/gvi-logo.png" alt="GVI — Global Voice Intelligence">
+        <picture>
+          <source media="(max-width: 560px)" srcset="/assets/brand/gvi-mark-tile-palette-on-paper.svg">
+          <img class="brand-logo" src="/assets/brand/gvi-logo-palette.svg" alt="GVI — Global Voice Intelligence">
+        </picture>
         <span class="brand-scheiding" aria-hidden="true"></span>
-        <span class="brand-tagline">AI met<br>menselijke maat</span>
+        <span class="brand-tagline">AI met grip<br>en regie</span>
       </a>
-      <button class="menu-toggle" aria-expanded="false" aria-controls="hoofdnav" aria-label="Menu openen of sluiten">
+      <button type="button" class="menu-toggle" aria-expanded="false" aria-controls="hoofdnav" aria-label="Menu openen of sluiten">
         <span></span><span></span><span></span>
       </button>
       <nav class="hoofdnav" id="hoofdnav" aria-label="Hoofdnavigatie">
         <ul>
-          <li><a href="/">Home</a></li>
+          <li class="heeft-sub navcombi">
+            <div class="navcombi-kop">
+              <a class="navhoofdlink" href="/">Home</a>
+              <button type="button" class="navknop navknop-compact" aria-expanded="false" aria-controls="subnav-home" aria-label="Toon onderdelen van de homepage"></button>
+            </div>
+            <div class="subnav subnav-home" id="subnav-home">
+              <span class="subnav-label">Op deze pagina</span>
+              <a href="/#problemen">Herkenbare vragen</a>
+              <a href="/#oplossingen">Oplossingen</a>
+              <a href="/#voor-wie">Voor wie</a>
+              <a href="/#praktijk">Praktijk &amp; bewijs</a>
+              <a href="/#over-iris">Wie is Iris?</a>
+              <a href="/#vragen">Veelgestelde vragen</a>
+            </div>
+          </li>
           <li class="heeft-sub">
-            <button class="navknop" aria-expanded="false">Wat we doen</button>
-            <div class="subnav">
-              <a href="/ai-regie-scan/">AI Regie Scan</a>
-              <a href="/ai-geletterdheid-adoptie/">AI-geletterdheid &amp; Adoptie <small>· AI Act art. 4</small></a>
-              <a href="/ai-audit-governance/">AI Audit &amp; Governance</a>
-              <a href="/ai-workflow-pilot/">Van Pilot naar Praktijk</a>
-              <a href="/ai-strategie-roadmap/">AI-regie op afroep</a>
-              <a href="/innoveren-met-ai/">Innoveren met AI</a>
+            <button type="button" class="navknop" aria-expanded="false" aria-controls="subnav-diensten">Oplossingen</button>
+            <div class="subnav" id="subnav-diensten">
+              <a class="subnav-propositie subnav-operations" href="/ai-regie-scan/">
+                <strong><span class="subnav-spark" aria-hidden="true"></span>AI Operations</strong>
+                <small>Sprint → Workflow Pilot → Partnership</small>
+              </a>
+              <span class="subnav-label">Andere oplossingen</span>
+              <a class="subnav-propositie" href="/ai-geletterdheid-adoptie/">
+                <strong>AI-geletterdheid &amp; Adoptie</strong>
+                <small>Mensen toerusten voor verstandig AI-gebruik</small>
+              </a>
+              <a class="subnav-propositie" href="/ai-audit-governance/">
+                <strong>AI Governance &amp; Organisatiescan</strong>
+                <small>Organisatiebreed grip en verantwoordelijkheid</small>
+              </a>
+              <a class="subnav-propositie" href="/innoveren-met-ai/">
+                <strong>Innoveren met AI</strong>
+                <small>Nieuwe diensten en klantwaarde ontwerpen</small>
+              </a>
+              <a class="subnav-propositie" href="/ai-trainingen/">
+                <strong>Trainingen &amp; werkvormen</strong>
+                <small>Laagdrempelig instappen met team, MT of directie</small>
+              </a>
             </div>
           </li>
           <li><a href="/aanpak/">Aanpak</a></li>
           <li class="heeft-sub">
-            <button class="navknop" aria-expanded="false">Voor wie</button>
-            <div class="subnav" style="min-width: 260px;">
-              <a href="/voor-mkb/">MKB</a>
+            <button type="button" class="navknop" aria-expanded="false" aria-controls="subnav-doelgroepen">Voor wie</button>
+            <div class="subnav subnav-doelgroepen" id="subnav-doelgroepen">
+              <a href="/voor-wie/#zzp-solofounders">ZZP &amp; solofounders</a>
+              <a href="/voor-mkb/">Kleinbedrijf &amp; MKB</a>
+              <a href="/voor-wie/#teams">Teams</a>
+              <a href="/voor-wie/#mt-directie">MT &amp; directie</a>
               <a href="/voor-publieke-organisaties/">Publieke &amp; maatschappelijke organisaties</a>
             </div>
           </li>
@@ -70,82 +108,97 @@
   </header>
 
   <main id="inhoud">
-<section class="op-donker sectie-strak">
-      <div class="wrap" style="padding-block: 2.5rem;">
-        <span class="kicker">Doelgroepen</span>
+<section class="page-hero">
+      <div class="wrap">
+        <span class="kicker">Klantcontexten</span>
         <h1>Voor wie we <span class="accent">werken</span></h1>
-        <p class="sub" style="font-size: 1.18rem; max-width: 40em;">GVI werkt voor organisaties die AI serieus willen nemen zonder zichzelf te verliezen. Kies je route — dan zie je meteen wat voor jou relevant is.</p>
+        <p class="sub">De beste eerste stap hangt niet alleen af van omvang of sector. Ze hangt af van het werk dat vastloopt, de beslissing die voorligt en wie daar eigenaarschap voor kan nemen.</p>
       </div>
     </section>
 
-    <section id="mkb">
+    <section>
       <div class="wrap">
-        <div class="grid grid-2">
-          <a class="card card-hover card-uitgelicht reveal" href="/voor-mkb/">
-            <span class="kicker">MKB · 20–250 medewerkers</span>
-            <h3>Ik werk bij een MKB-organisatie</h3>
-            <p>Praktische stappen, snel resultaat, grip op kosten — en geen onnodige afhankelijkheid van één tool of leverancier.</p>
-            <p class="pijl">Naar de MKB-pagina →</p>
+        <div class="centreer reveal">
+          <span class="kicker">Waar herken jij jezelf?</span>
+          <h2>Vijf situaties, vijf verschillende beginvragen</h2>
+        </div>
+        <div class="grid grid-3 space-top-lg">
+          <article class="card reveal" id="zzp-solofounders">
+            <span class="prijs-tag">Zelf beslissen · snel schakelen</span>
+            <h3>ZZP &amp; solofounders</h3>
+            <p><strong>Je bedrijf draait voor een groot deel op jou.</strong> Administratie, klantopvolging, research, content en verschillende apps vragen voortdurend aandacht.</p>
+            <p>De kernvraag: welke kleine AI-werkwijze geeft direct tijd terug zonder extra technisch beheer, onnodige abonnementen of verlies van jouw eigen stem?</p>
+            <p class="pijl"><a href="/contact/?onderwerp=AI%20voor%20ZZP%20%26%20solofounders">Bespreek je grootste tijdlek →</a></p>
+          </article>
+          <a class="card card-hover reveal" href="/voor-mkb/" id="mkb">
+            <span class="prijs-tag">Capaciteit · marge · groei</span>
+            <h3>Kleinbedrijf &amp; MKB</h3>
+            <p><strong>Je hebt processen en klanten, maar geen groot intern AI-team.</strong> Microsoft 365 en verschillende applicaties lossen delen op, terwijl informatie en handwerk ertussen blijven zitten.</p>
+            <p>De kernvraag: waar verlaagt AI aantoonbaar kosten, maakt het capaciteit vrij of verbetert het omzet, service of kwaliteit?</p>
+            <p class="pijl">Naar de bedrijvenroute →</p>
           </a>
-          <a class="card card-hover card-uitgelicht reveal" href="/voor-publieke-organisaties/" id="publiek">
-            <span class="kicker">Publiek &amp; maatschappelijk</span>
-            <h3>Ik werk bij een publieke of maatschappelijke organisatie</h3>
-            <p>Uitlegbaarheid, governance en AI Act/AVG — AI inzetten met publieke waarden vanaf het begin.</p>
-            <p class="pijl">Naar de publieke-sectorpagina →</p>
+          <article class="card reveal" id="teams">
+            <span class="prijs-tag">Dagelijks werk · kwaliteit · afspraken</span>
+            <h3>Teams</h3>
+            <p><strong>Mensen gebruiken AI al, maar niet op dezelfde manier.</strong> De één wint tijd, de ander vertrouwt het niet en gezamenlijke kwaliteitsafspraken ontbreken.</p>
+            <p>De kernvraag: hoe maakt AI het echte teamwerk sneller en beter, terwijl duidelijk blijft wat mensen controleren, beslissen en samen leren?</p>
+            <p class="pijl"><a href="/ai-trainingen/">Bekijk teamsessies en werkvormen →</a></p>
+          </article>
+          <article class="card reveal" id="mt-directie">
+            <span class="prijs-tag">Koers · investering · eigenaarschap</span>
+            <h3>MT &amp; directie</h3>
+            <p><strong>AI verschijnt in budgetten, projecten en verwachtingen.</strong> Maar initiatieven zijn versnipperd en het is niet helder welke investering werkelijk bijdraagt aan de organisatiedoelen.</p>
+            <p>De kernvraag: waar sturen we op — kosten, opbrengst, kwaliteit of publieke waarde — en wie is eigenaar van resultaat, risico en vervolg?</p>
+            <p class="pijl"><a href="/ai-regie-scan/">Bekijk de AI Operations-route →</a></p>
+          </article>
+          <a class="card card-hover reveal" href="/voor-publieke-organisaties/" id="publiek-maatschappelijk">
+            <span class="prijs-tag">Uitlegbaar · zorgvuldig · bestuurbaar</span>
+            <h3>Publiek &amp; maatschappelijk</h3>
+            <p><strong>Waarde alleen is niet genoeg.</strong> Besluiten moeten uitlegbaar zijn, gegevens vragen extra zorg en inkoop, toezicht en publieke waarden begrenzen de route.</p>
+            <p>De kernvraag: waar helpt AI burgers, professionals en organisatie aantoonbaar — en hoe houden we dat verantwoord en bestuurbaar?</p>
+            <p class="pijl">Naar de publieke route →</p>
           </a>
         </div>
-        <p class="mini-noot centreer" style="margin-top: 1.6rem;">Twijfel je of val je er tussenin? <a href="/contact/">Plan een verkennend gesprek</a> — dan kijken we samen.</p>
+        <div class="centreer reveal space-top-lg">
+          <p class="intro-groot no-margin">Heb je een andere vraag?</p>
+          <a class="knop knop-donker" href="/contact/">Leg je vraag voor</a>
+        </div>
       </div>
     </section>
 
   </main>
 
   <footer class="site-footer op-donker">
-    <div class="art-laag" aria-hidden="true"><svg viewBox="0 0 1440 400" preserveAspectRatio="xMidYMax slice" style="position:absolute;inset:0;width:100%;height:100%;opacity:.5" aria-hidden="true" focusable="false"><defs><linearGradient id="fgrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF3DA6" stop-opacity="0"/><stop offset=".6" stop-color="#FF3DA6" stop-opacity=".35"/><stop offset="1" stop-color="#D91C87" stop-opacity=".55"/></linearGradient></defs><g fill="none" stroke="url(#fgrad)" stroke-width="1.5"><path d="M-50 320 C 300 260, 600 380, 900 300 S 1300 240, 1500 300"/><path d="M-50 345 C 320 285, 620 400, 920 320 S 1320 260, 1500 325"/><path d="M-50 370 C 340 315, 640 420, 940 345 S 1340 285, 1500 350"/></g></svg></div>
+    <div class="art-laag" aria-hidden="true"><svg viewBox="0 0 1440 400" preserveAspectRatio="xMidYMax slice" style="position:absolute;inset:0;width:100%;height:100%;opacity:.5" aria-hidden="true" focusable="false"><defs><linearGradient id="fgrad-1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A887FF" stop-opacity="0"/><stop offset=".52" stop-color="#FF4FA3" stop-opacity=".38"/><stop offset="1" stop-color="#FF8A5B" stop-opacity=".6"/></linearGradient></defs><g fill="none" stroke="url(#fgrad-1)" stroke-width="1.6"><path d="M-50 320 C 300 260, 600 380, 900 300 S 1300 240, 1500 300"/><path d="M-50 345 C 320 285, 620 400, 920 320 S 1320 260, 1500 325"/><path d="M-50 370 C 340 315, 640 420, 940 345 S 1340 285, 1500 350"/></g></svg></div>
     <div class="wrap">
       <div class="footer-grid">
-        <div>
-          <img class="footer-logo" src="/assets/gvi-logo.png" alt="GVI — Global Voice Intelligence">
-          <p class="footer-tagline">AI met menselijke maat.</p>
-          <p class="mini-noot" style="max-width: 20em;">Regie op AI, meer tijd voor het werk dat er echt toe doet.</p>
+        <div class="footer-merk">
+          <img class="footer-logo" src="/assets/brand/gvi-logo-neon-pink.svg" alt="GVI — Global Voice Intelligence">
+          <p class="footer-belofte">AI met grip en regie.</p>
+          <p class="footer-mensenwerk">Beslissen blijft mensenwerk.</p>
+          <a class="knop knop-primair" href="/contact/">Plan een verkenning</a>
         </div>
-        <nav aria-label="Diensten">
-          <h3>Wat we doen</h3>
+        <nav aria-label="Oplossingen">
+          <h2 class="footer-kop">Oplossingen</h2>
           <ul>
-            <li><a href="/ai-regie-scan/">AI Regie Scan</a></li>
+            <li class="footer-hoofdlink"><a href="/ai-regie-scan/">AI Operations</a><span>Sprint · Workflow Pilot · Partnership</span></li>
             <li><a href="/ai-geletterdheid-adoptie/">AI-geletterdheid &amp; Adoptie</a></li>
-            <li><a href="/ai-audit-governance/">AI Audit &amp; Governance</a></li>
-            <li><a href="/ai-workflow-pilot/">Van Pilot naar Praktijk</a></li>
-            <li><a href="/ai-strategie-roadmap/">AI-regie op afroep</a></li>
+            <li><a href="/ai-audit-governance/">AI Governance &amp; Organisatiescan</a></li>
             <li><a href="/innoveren-met-ai/">Innoveren met AI</a></li>
             <li><a href="/ai-trainingen/">Trainingen &amp; werkvormen</a></li>
           </ul>
         </nav>
-        <nav aria-label="Organisatie">
-          <h3>GVI</h3>
+        <nav aria-label="Over GVI en contact">
+          <h2 class="footer-kop">GVI</h2>
           <ul>
             <li><a href="/aanpak/">Aanpak</a></li>
-            <li><a href="/voor-mkb/">Voor MKB</a></li>
-            <li><a href="/voor-publieke-organisaties/">Voor publieke organisaties</a></li>
+            <li><a href="/voor-wie/">Voor wie</a></li>
             <li><a href="/over-gvi/">Over GVI</a></li>
             <li><a href="/kennis/">Kennis &amp; inzichten</a></li>
             <li><a href="/contact/">Contact</a></li>
-          </ul>
-        </nav>
-        <div>
-          <h3>Contact</h3>
-          <ul>
-            <li>irisfickeryounge+gvi@gmail.com</li>
-            <li><a href="/contact/">Plan een verkennend gesprek</a></li>
             <li><a href="https://www.linkedin.com/in/iris-ficker-8ab404204/" target="_blank" rel="noopener">LinkedIn</a></li>
           </ul>
-          <form class="footer-nieuwsbrief nieuwsbrief" novalidate aria-label="Nieuwsbrief-inschrijving">
-            <label class="sr-only" style="position:absolute;left:-9999px;">E-mailadres voor de nieuwsbrief</label>
-            <input type="email" name="email" placeholder="E-mailadres" required>
-            <button type="submit" class="knop knop-licht">Inschrijven</button>
-            <p class="form-status mini-noot" role="status" aria-live="polite" style="flex-basis:100%;margin:0;"></p>
-          </form>
-        </div>
+        </nav>
       </div>
       <div class="footer-onder">
         <span>© 2026 GVI — Global Voice Intelligence</span>
@@ -154,6 +207,6 @@
     </div>
   </footer>
 
-  <script src="/js/main.js"></script>
+  <script src="/js/main.js?v=20260826-home-final-2"></script>
 </body>
 </html>

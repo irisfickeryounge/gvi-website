@@ -11,7 +11,7 @@ from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
-SITE = "/Users/irisfickeryounge/Documents/Claude/Projects/Fable 5 Projects/gvi-website"
+SITE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LOGO = os.path.join(SITE, "assets", "gvi-logo.png")
 UIT = os.path.join(SITE, "downloads", "gvi-whitepaper-ai-met-menselijke-maat.pdf")
 
@@ -151,7 +151,7 @@ def slotpagina(c, doc):
         "•  Plan een verkennend gesprek — altijd een persoonlijke reactie",
         "",
         "www.globalvoiceintelligence.com",
-        "irisfickeryounge+gvi@gmail.com",
+        "globalvoiceintelligence.com/contact/",
     ]
     y = H * 0.62 - 12 * mm
     for r in regels:

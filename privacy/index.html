@@ -14,12 +14,15 @@
   <meta property="og:url" content="https://www.globalvoiceintelligence.com/privacy/">
   <meta property="og:image" content="https://www.globalvoiceintelligence.com/assets/og-image.jpg">
   <meta name="twitter:card" content="summary_large_image">
-  <link rel="icon" href="/assets/favicon-48.png" type="image/png">
-  <link rel="apple-touch-icon" href="/assets/gvi-monogram-192.png">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Sora:wght@600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/css/style.css">
+  <meta name="theme-color" content="#261840">
+  <link rel="icon" href="/assets/favicons/favicon.ico" sizes="any">
+  <link rel="icon" href="/assets/favicons/gvi-favicon-master.svg" type="image/svg+xml">
+  <link rel="icon" href="/assets/favicons/gvi-favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="icon" href="/assets/favicons/gvi-favicon-16.png" sizes="16x16" type="image/png">
+  <link rel="apple-touch-icon" href="/assets/favicons/gvi-favicon-180.png" sizes="180x180">
+  <link rel="manifest" href="/assets/favicons/site.webmanifest">
+  <script>document.documentElement.classList.add('js');</script>
+  <link rel="stylesheet" href="/css/style.css?v=20260826-home-final-2">
   <!-- Privacyvriendelijke analytics (Plausible): pas activeren als Iris dat wil.
   <script defer data-domain="globalvoiceintelligence.com" src="https://plausible.io/js/script.js"></script>
   -->
@@ -31,32 +34,67 @@
   <header class="site-header">
     <div class="wrap nav-bar">
       <a class="brand" href="/" aria-label="GVI — Global Voice Intelligence, naar de homepage">
-        <img class="brand-logo" src="/assets/gvi-logo.png" alt="GVI — Global Voice Intelligence">
+        <picture>
+          <source media="(max-width: 560px)" srcset="/assets/brand/gvi-mark-tile-palette-on-paper.svg">
+          <img class="brand-logo" src="/assets/brand/gvi-logo-palette.svg" alt="GVI — Global Voice Intelligence">
+        </picture>
         <span class="brand-scheiding" aria-hidden="true"></span>
-        <span class="brand-tagline">AI met<br>menselijke maat</span>
+        <span class="brand-tagline">AI met grip<br>en regie</span>
       </a>
-      <button class="menu-toggle" aria-expanded="false" aria-controls="hoofdnav" aria-label="Menu openen of sluiten">
+      <button type="button" class="menu-toggle" aria-expanded="false" aria-controls="hoofdnav" aria-label="Menu openen of sluiten">
         <span></span><span></span><span></span>
       </button>
       <nav class="hoofdnav" id="hoofdnav" aria-label="Hoofdnavigatie">
         <ul>
-          <li><a href="/">Home</a></li>
+          <li class="heeft-sub navcombi">
+            <div class="navcombi-kop">
+              <a class="navhoofdlink" href="/">Home</a>
+              <button type="button" class="navknop navknop-compact" aria-expanded="false" aria-controls="subnav-home" aria-label="Toon onderdelen van de homepage"></button>
+            </div>
+            <div class="subnav subnav-home" id="subnav-home">
+              <span class="subnav-label">Op deze pagina</span>
+              <a href="/#problemen">Herkenbare vragen</a>
+              <a href="/#oplossingen">Oplossingen</a>
+              <a href="/#voor-wie">Voor wie</a>
+              <a href="/#praktijk">Praktijk &amp; bewijs</a>
+              <a href="/#over-iris">Wie is Iris?</a>
+              <a href="/#vragen">Veelgestelde vragen</a>
+            </div>
+          </li>
           <li class="heeft-sub">
-            <button class="navknop" aria-expanded="false">Wat we doen</button>
-            <div class="subnav">
-              <a href="/ai-regie-scan/">AI Regie Scan</a>
-              <a href="/ai-geletterdheid-adoptie/">AI-geletterdheid &amp; Adoptie <small>· AI Act art. 4</small></a>
-              <a href="/ai-audit-governance/">AI Audit &amp; Governance</a>
-              <a href="/ai-workflow-pilot/">Van Pilot naar Praktijk</a>
-              <a href="/ai-strategie-roadmap/">AI-regie op afroep</a>
-              <a href="/innoveren-met-ai/">Innoveren met AI</a>
+            <button type="button" class="navknop" aria-expanded="false" aria-controls="subnav-diensten">Oplossingen</button>
+            <div class="subnav" id="subnav-diensten">
+              <a class="subnav-propositie subnav-operations" href="/ai-regie-scan/">
+                <strong><span class="subnav-spark" aria-hidden="true"></span>AI Operations</strong>
+                <small>Sprint → Workflow Pilot → Partnership</small>
+              </a>
+              <span class="subnav-label">Andere oplossingen</span>
+              <a class="subnav-propositie" href="/ai-geletterdheid-adoptie/">
+                <strong>AI-geletterdheid &amp; Adoptie</strong>
+                <small>Mensen toerusten voor verstandig AI-gebruik</small>
+              </a>
+              <a class="subnav-propositie" href="/ai-audit-governance/">
+                <strong>AI Governance &amp; Organisatiescan</strong>
+                <small>Organisatiebreed grip en verantwoordelijkheid</small>
+              </a>
+              <a class="subnav-propositie" href="/innoveren-met-ai/">
+                <strong>Innoveren met AI</strong>
+                <small>Nieuwe diensten en klantwaarde ontwerpen</small>
+              </a>
+              <a class="subnav-propositie" href="/ai-trainingen/">
+                <strong>Trainingen &amp; werkvormen</strong>
+                <small>Laagdrempelig instappen met team, MT of directie</small>
+              </a>
             </div>
           </li>
           <li><a href="/aanpak/">Aanpak</a></li>
           <li class="heeft-sub">
-            <button class="navknop" aria-expanded="false">Voor wie</button>
-            <div class="subnav" style="min-width: 260px;">
-              <a href="/voor-mkb/">MKB</a>
+            <button type="button" class="navknop" aria-expanded="false" aria-controls="subnav-doelgroepen">Voor wie</button>
+            <div class="subnav subnav-doelgroepen" id="subnav-doelgroepen">
+              <a href="/voor-wie/#zzp-solofounders">ZZP &amp; solofounders</a>
+              <a href="/voor-mkb/">Kleinbedrijf &amp; MKB</a>
+              <a href="/voor-wie/#teams">Teams</a>
+              <a href="/voor-wie/#mt-directie">MT &amp; directie</a>
               <a href="/voor-publieke-organisaties/">Publieke &amp; maatschappelijke organisaties</a>
             </div>
           </li>
@@ -71,90 +109,92 @@
 
   <main id="inhoud">
 <section class="sectie-strak sectie-mist">
-      <div class="wrap" style="padding-block: 2rem;">
+      <div class="wrap">
         <h1>Privacyverklaring</h1>
       </div>
     </section>
 
     <section>
       <div class="wrap tekst-pagina">
-        <p class="intro-groot">GVI gaat zorgvuldig en terughoudend om met je gegevens. Hieronder lees je in gewone taal wat we verzamelen, waarom, en wat je rechten zijn.</p>
+        <p class="intro-groot">GVI gaat zorgvuldig en terughoudend om met persoonsgegevens. Hieronder staat in gewone taal welke gegevens via deze website worden verwerkt, waarom en via welke diensten.</p>
+
+        <h2>Wie is verantwoordelijk?</h2>
+        <p>GVI — Global Voice Intelligence is verantwoordelijk voor de verwerking via deze website. Voor privacyvragen kun je het <a href="/contact/?onderwerp=Privacyvraag">contactformulier</a> gebruiken.</p>
 
         <h2>Welke gegevens verzamelen we?</h2>
-        <p>Alleen wat je zelf invult in het contactformulier: je naam, organisatie, e-mailadres, eventueel je telefoonnummer, en je bericht. Meer niet.</p>
+        <p>We verwerken alleen gegevens die je zelf invult:</p>
+        <ul class="check-lijst">
+          <li>bij contact: naam, organisatie, e-mailadres, eventueel telefoonnummer, gekozen onderwerp en bericht;</li>
+          <li>bij een download: e-mailadres, de gekozen download en — als je ze invult — naam en organisatie;</li>
+          <li>bij de nieuwsbrief: e-mailadres.</li>
+        </ul>
 
         <h2>Waarvoor gebruiken we die gegevens?</h2>
-        <p>Om je vraag te beantwoorden en contact met je op te nemen. Dat is het enige doel.</p>
+        <ul class="check-lijst">
+          <li>om je vraag of aanvraag te behandelen;</li>
+          <li>om de aangevraagde download te leveren en eventueel eenmalig op die aanvraag te reageren;</li>
+          <li>om je de nieuwsbrief te sturen als je je daar zelf voor inschrijft.</li>
+        </ul>
+        <p>Je wordt door een download- of contactaanvraag niet automatisch op de nieuwsbrief gezet. Toestemming voor de nieuwsbrief kun je altijd weer intrekken.</p>
+
+        <h2>Welke diensten verwerken mee?</h2>
+        <p>Formulieren worden via <strong>Web3Forms</strong> doorgestuurd naar GVI en in <strong>Google/Gmail</strong> ontvangen. Als GVI automatische ontvangstbevestigingen activeert, verwerkt ook <strong>Google Apps Script</strong> de daarvoor benodigde formuliergegevens. Deze partijen verwerken gegevens als dienstverlener volgens hun eigen beveiligings- en privacyvoorwaarden. GVI gebruikt de gegevens niet voor advertenties en verkoopt ze niet.</p>
+        <p>De lettertypen Manrope en Newsreader worden lokaal vanaf deze website geladen. Daarvoor gaat geen verzoek naar Google Fonts. Er worden geen Google Analytics- of advertentiecookies geplaatst.</p>
 
         <h2>Wat doen we niet?</h2>
         <ul class="check-lijst">
-          <li>We verkopen je gegevens niet en delen ze niet met derden voor marketing.</li>
+          <li>We verkopen je gegevens niet en delen ze niet met andere partijen voor hun marketing.</li>
           <li>We gebruiken geen onnodige tracking of advertentiecookies.</li>
           <li>We verzamelen niet meer gegevens dan nodig.</li>
         </ul>
 
         <h2>Hoe lang bewaren we je gegevens?</h2>
-        <p>Niet langer dan nodig om je vraag af te handelen en eventueel vervolgcontact te onderhouden.</p>
+        <p>Contact- en downloadgegevens worden niet langer bewaard dan nodig om de aanvraag af te handelen en relevant vervolgcontact te onderhouden. Een nieuwsbriefadres blijft op de lijst tot je je uitschrijft. Gegevens kunnen langer worden bewaard als dat nodig is voor een wettelijke administratieplicht of een juridisch geschil.</p>
 
         <h2>Je rechten</h2>
-        <p>Je hebt recht op inzage, correctie en verwijdering van je gegevens. Mail daarvoor naar irisfickeryounge+gvi@gmail.com — je krijgt altijd een persoonlijke reactie, meestal binnen een paar werkdagen.</p>
+        <p>Je kunt vragen om inzage, correctie, verwijdering, beperking of overdracht van je gegevens. Je kunt bezwaar maken tegen verwerking en eerder gegeven toestemming intrekken. Gebruik daarvoor het <a href="/contact/?onderwerp=Privacyvraag">contactformulier</a>. Je hebt daarnaast het recht een klacht in te dienen bij de Autoriteit Persoonsgegevens.</p>
 
         <h2>Analytics</h2>
         <p>Als we bezoekersstatistieken bijhouden, gebeurt dat met een privacyvriendelijke tool zonder persoonsgegevens of cookies. Op dit moment is er geen analytics actief.</p>
 
         <hr class="zacht">
-        <p class="mini-noot">[Concept — juridisch na te lopen]</p>
+        <p class="mini-noot">Laatst bijgewerkt: 22 augustus 2026. Deze verklaring beschrijft de huidige website-inrichting.</p>
       </div>
     </section>
 
   </main>
 
   <footer class="site-footer op-donker">
-    <div class="art-laag" aria-hidden="true"><svg viewBox="0 0 1440 400" preserveAspectRatio="xMidYMax slice" style="position:absolute;inset:0;width:100%;height:100%;opacity:.5" aria-hidden="true" focusable="false"><defs><linearGradient id="fgrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF3DA6" stop-opacity="0"/><stop offset=".6" stop-color="#FF3DA6" stop-opacity=".35"/><stop offset="1" stop-color="#D91C87" stop-opacity=".55"/></linearGradient></defs><g fill="none" stroke="url(#fgrad)" stroke-width="1.5"><path d="M-50 320 C 300 260, 600 380, 900 300 S 1300 240, 1500 300"/><path d="M-50 345 C 320 285, 620 400, 920 320 S 1320 260, 1500 325"/><path d="M-50 370 C 340 315, 640 420, 940 345 S 1340 285, 1500 350"/></g></svg></div>
+    <div class="art-laag" aria-hidden="true"><svg viewBox="0 0 1440 400" preserveAspectRatio="xMidYMax slice" style="position:absolute;inset:0;width:100%;height:100%;opacity:.5" aria-hidden="true" focusable="false"><defs><linearGradient id="fgrad-1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A887FF" stop-opacity="0"/><stop offset=".52" stop-color="#FF4FA3" stop-opacity=".38"/><stop offset="1" stop-color="#FF8A5B" stop-opacity=".6"/></linearGradient></defs><g fill="none" stroke="url(#fgrad-1)" stroke-width="1.6"><path d="M-50 320 C 300 260, 600 380, 900 300 S 1300 240, 1500 300"/><path d="M-50 345 C 320 285, 620 400, 920 320 S 1320 260, 1500 325"/><path d="M-50 370 C 340 315, 640 420, 940 345 S 1340 285, 1500 350"/></g></svg></div>
     <div class="wrap">
       <div class="footer-grid">
-        <div>
-          <img class="footer-logo" src="/assets/gvi-logo.png" alt="GVI — Global Voice Intelligence">
-          <p class="footer-tagline">AI met menselijke maat.</p>
-          <p class="mini-noot" style="max-width: 20em;">Regie op AI, meer tijd voor het werk dat er echt toe doet.</p>
+        <div class="footer-merk">
+          <img class="footer-logo" src="/assets/brand/gvi-logo-neon-pink.svg" alt="GVI — Global Voice Intelligence">
+          <p class="footer-belofte">AI met grip en regie.</p>
+          <p class="footer-mensenwerk">Beslissen blijft mensenwerk.</p>
+          <a class="knop knop-primair" href="/contact/">Plan een verkenning</a>
         </div>
-        <nav aria-label="Diensten">
-          <h3>Wat we doen</h3>
+        <nav aria-label="Oplossingen">
+          <h2 class="footer-kop">Oplossingen</h2>
           <ul>
-            <li><a href="/ai-regie-scan/">AI Regie Scan</a></li>
+            <li class="footer-hoofdlink"><a href="/ai-regie-scan/">AI Operations</a><span>Sprint · Workflow Pilot · Partnership</span></li>
             <li><a href="/ai-geletterdheid-adoptie/">AI-geletterdheid &amp; Adoptie</a></li>
-            <li><a href="/ai-audit-governance/">AI Audit &amp; Governance</a></li>
-            <li><a href="/ai-workflow-pilot/">Van Pilot naar Praktijk</a></li>
-            <li><a href="/ai-strategie-roadmap/">AI-regie op afroep</a></li>
+            <li><a href="/ai-audit-governance/">AI Governance &amp; Organisatiescan</a></li>
             <li><a href="/innoveren-met-ai/">Innoveren met AI</a></li>
             <li><a href="/ai-trainingen/">Trainingen &amp; werkvormen</a></li>
           </ul>
         </nav>
-        <nav aria-label="Organisatie">
-          <h3>GVI</h3>
+        <nav aria-label="Over GVI en contact">
+          <h2 class="footer-kop">GVI</h2>
           <ul>
             <li><a href="/aanpak/">Aanpak</a></li>
-            <li><a href="/voor-mkb/">Voor MKB</a></li>
-            <li><a href="/voor-publieke-organisaties/">Voor publieke organisaties</a></li>
+            <li><a href="/voor-wie/">Voor wie</a></li>
             <li><a href="/over-gvi/">Over GVI</a></li>
             <li><a href="/kennis/">Kennis &amp; inzichten</a></li>
             <li><a href="/contact/">Contact</a></li>
-          </ul>
-        </nav>
-        <div>
-          <h3>Contact</h3>
-          <ul>
-            <li>irisfickeryounge+gvi@gmail.com</li>
-            <li><a href="/contact/">Plan een verkennend gesprek</a></li>
             <li><a href="https://www.linkedin.com/in/iris-ficker-8ab404204/" target="_blank" rel="noopener">LinkedIn</a></li>
           </ul>
-          <form class="footer-nieuwsbrief nieuwsbrief" novalidate aria-label="Nieuwsbrief-inschrijving">
-            <label class="sr-only" style="position:absolute;left:-9999px;">E-mailadres voor de nieuwsbrief</label>
-            <input type="email" name="email" placeholder="E-mailadres" required>
-            <button type="submit" class="knop knop-licht">Inschrijven</button>
-            <p class="form-status mini-noot" role="status" aria-live="polite" style="flex-basis:100%;margin:0;"></p>
-          </form>
-        </div>
+        </nav>
       </div>
       <div class="footer-onder">
         <span>© 2026 GVI — Global Voice Intelligence</span>
@@ -163,6 +203,6 @@
     </div>
   </footer>
 
-  <script src="/js/main.js"></script>
+  <script src="/js/main.js?v=20260826-home-final-2"></script>
 </body>
 </html>
