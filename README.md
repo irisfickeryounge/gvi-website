@@ -53,7 +53,9 @@ Tekst van de bevestigingen aanpassen: wijzig `src/gmail-autobevestiging.gs` én 
 
 ## Publiceren
 
-De bron en de lokale preview zijn niet automatisch de live website. Bouw eerst met `python3 src/build.py`, voer de validaties uit en publiceer uitsluitend na Iris' expliciete akkoord via de bestaande deploymentroute.
+De bron en de lokale preview zijn niet automatisch de live website. Bouw eerst met `python3 src/build.py`, voer de validaties uit en publiceer uitsluitend na Iris' expliciete akkoord.
+
+Na een push naar `main` publiceert `.github/workflows/deploy-pages.yml` de statische repository via GitHubs officiële Pages-actions. Controleer na iedere livegang dat de workflow is geslaagd én dat het productiedomein de nieuwe inhoud, downloads en formulierflow werkelijk serveert.
 
 ## Conversiehiërarchie (V4, 22 augustus 2026)
 
