@@ -14,21 +14,21 @@ Global Voice Intelligence
 
 Beslissen blijft mensenwerk.
 
-GVI helpt organisaties AI omzetten in aantoonbaar beter werk. Onderscheidingsvermogen, creativiteit en oordeel blijven bij mensen.
+GVI helpt directie en teams bepalen waar AI tijd kan besparen, kosten kan verlagen en kwaliteit kan verbeteren. We onderzoeken de businesscase van één werkproces, met de mensen die het werk kennen en uitvoeren.
 
-Plan een verkenning Bekijk de oplossingen →
+Bespreek je werkvraag Zo pakken we het aan →
 
 Founding Instap
 
 ## AI Operations Sprint
 
-Sprint → Workflow Pilot → Partnership
+Eén workflow · één pilot tegelijk
 
-Van meerdere kansen naar één bewezen werkwijze die je beheerst en gericht blijft verbeteren.
+Van een concreet knelpunt naar een onderbouwde businesscase en een gerichte proef. We wegen verwachte opbrengst, investering en werkbaarheid voor je team.
 
-Bij de start van GVI zijn enkele plekken in de AI Operations Sprint beschikbaar zonder GVI-honorarium. De deelnemende organisatie doet in plaats daarvan rechtstreeks een betekenisvolle donatie aan een erkend goed doel naar eigen keuze.
+GVI verkent deelname met passende Nederlandse MKB-bedrijven. Voor deze instap geldt geen GVI-honorarium. De deelnemende organisatie doet in plaats daarvan rechtstreeks een betekenisvolle donatie aan een erkend goed doel naar eigen keuze.
 
-Bekijk de volledige route Bekijk de Founding Instap →
+Bekijk de aanpak Leg je werkvraag voor →
 
 De opgave voor ondernemers en leiders
 
@@ -116,101 +116,49 @@ BCG rapporteert dat 72% van de ondervraagde CEO’s inmiddels de belangrijkste b
 
 Maak AI Chefsache. Leer, kies, test en breng je organisatie nu in beweging — voordat de leerkloof structureel wordt.
 
-Versterk je AI-leiderschap BCG AI Radar 2026 →
+Onderzoek één workflow BCG AI Radar 2026 →
 
-Oplossingen
+Van werkvraag naar pilot
 
-## Van eerste keuze naar blijvende waarde
+## Eén werkproces. Zicht op de bedrijfswaarde.
 
-Klein beginnen, werkelijk testen en alleen uitbreiden als het werkt.
+Waar zit de kans op tijdwinst, lagere kosten of betere dienstverlening? Samen onderzoeken we één werkproces, brengen we opbrengsten en kosten in beeld en spreken we af hoe we de waarde toetsen.
 
-01 · Kiezen
+01 · Verkennen
 
-### AI Operations Sprint
+### Waar zit de waarde?
 
-Vergelijk binnen één werkgebied meerdere kansen en kies één workflow. Bij een go ligt er een pilotontwerp met eigenaar, meetlat en stopregel.
+We kijken waar tijd, geld of kwaliteit verloren gaat en welke verbetering voor je bedrijf en team telt.
 
-Bekijk de Sprint
+02 · Afwegen
 
-02 · Bewijzen
+### Klopt de businesscase?
 
-### AI Workflow Pilot
+We wegen verwachte opbrengsten tegen invoering, gebruik en beheer. Scope en meetlat leggen we vooraf vast.
 
-Test de gekozen werkwijze op echt werk, inclusief lastige gevallen, menselijke beslismomenten en overdracht aan het team.
+03 · Toetsen
 
-Bekijk de Pilot
+### Onderbouwd verder
 
-03 · Blijven verbeteren
+Een afgesproken pilot toetst de waarde op echt werk, samen met je team. De bevindingen geven richting aan doorgaan, aanpassen of stoppen.
 
-### AI Operations Partnership
+Bekijk de voorwaarden Bespreek je werkvraag
 
-Een vaste werkcyclus voor gebruik, verbetering, adoptie en uitbreiding — met duidelijke grenzen en afgesproken capaciteit.
+Expertise · aanbod verwacht in 2027
 
-Bekijk het Partnership
+## Een brede blik, een gerichte instap
 
-Niet elke vraag begint bij een workflow
+Governance, AI-geletterdheid, innovatie, trainingen en doorlopende samenwerking blijven onderdeel van GVI's expertise. Dit aanbod staat op hold; een startdatum is nog niet vastgesteld.
 
-## Andere manieren om te starten
-
-Organisatiebreed grip krijgen
-
-### AI Governance & Organisatiescan
-
-Breng gebruik, verantwoordelijkheden, gegevens, leveranciers en menselijk toezicht samen in één bestuurbaar beeld.
-
-Bekijk de organisatiescan →
-
-Mensen toerusten en upskillen
-
-### AI-geletterdheid & Adoptie
-
-Leer teams en leidinggevenden AI verstandig gebruiken in hun eigen werk — met oefening, afspraken en borging.
-
-Bekijk het programma →
-
-Nieuwe waarde ontwerpen
-
-### Innoveren met AI
-
-Ontwerp nieuwe diensten, proposities of klantwaarde wanneer je verder wilt kijken dan efficiëntie.
-
-Bekijk de innovatieroute →
-
-Laagdrempelig instappen
-
-### Trainingen & werkvormen
-
-Werk met een team, MT of directie aan een concrete vraag en ervaar wat AI in jullie eigen praktijk vraagt en oplevert.
-
-Bekijk trainingen en werkvormen →
+Governance · Geletterdheid & adoptie · Innovatie · Trainingen · Partnership
 
 Voor wie
 
-## Dezelfde technologie. Andere dagelijkse druk.
+## Nederlandse MKB-bedrijven met een concrete werkvraag
 
-Kies de context die het dichtst bij je dagelijkse praktijk ligt.
+Er is iemand die het proces kent, een opdrachtgever die keuzes kan maken en ruimte om zorgvuldig te onderzoeken. De vraag past binnen één workflow.
 
-### ZZP & solofounders
-
-Tijd terugwinnen zonder extra technisch beheer.
-
-### Kleinbedrijf & MKB
-
-Capaciteit, marge en groei zonder toolchaos.
-
-### Teams
-
-Beter werken met gedeelde kwaliteitsafspraken.
-
-### MT & directie
-
-Koers, investering en eigenaarschap scherp krijgen.
-
-### Publiek & maatschappelijk
-
-Waarde creëren die uitlegbaar en bestuurbaar blijft.
-
-Bekijk alle beginvragen
+Past dit bij je bedrijf? →
 
 Praktijk
 
@@ -240,13 +188,13 @@ Fluisterstroom is een Nederlandse spraak-naar-tekstapp die lokaal op je eigen co
 
 Ontdek Fluisterstroom →
 
-Beta · website bijna live
+Eigen praktijkproject · beta
 
 Spreker · Data Expo 2026
 
 ### Van appbouw naar podium
 
-Op Data Expo 2026 spreekt Iris over de bouw van Fluisterstroom en de lessen daaruit: wat digitale soevereiniteit in de praktijk vraagt wanneer je niet alleen adviseert, maar zelf bouwt.
+Op Data Expo 2026 sprak Iris over de bouw van Fluisterstroom en de lessen daaruit: wat digitale soevereiniteit in de praktijk vraagt wanneer je niet alleen adviseert, maar zelf bouwt.
 
 Bekijk de sessie bij Data Expo →
 
@@ -256,19 +204,19 @@ Leer-je-kind-AI · in ontwikkeling
 
 Een app voor verantwoord AI-onderwijs in het primair onderwijs, gebaseerd op actuele wetenschappelijke inzichten over AI en het ontwikkelende kind. Kinderen leren spelenderwijs hoe AI werkt, waar het fouten maakt en hoe ze het kritisch kunnen gebruiken.
 
-Soft launch gepland voor eind september 2026.
+Een eigen praktijkproject; via GVI wordt hiervoor geen dienstverlening aangeboden.
 
 Ontdek De Neuronauten →
 
-Website bijna live
+Eigen praktijkproject
 
 Over GVI
 
 ## Samenhang zien. Waarde bouwen.
 
-Iris Ficker Younge is interdisciplinair systeemdenker, ondernemer en Forward-Deployed AI Lead. Haar loopbaan van ruim dertig jaar verbindt cultuur, onderzoek, publieke strategie, duurzame innovatie en technologie.
+Iris Ficker Younge is strategisch AI-adviseur en Forward-Deployed AI Lead. Ze brengt ervaring met governance, bestuurlijke besluitvorming en financiële afwegingen mee, onder meer als senior strategisch beleidsadviseur bij gemeenten.
 
-Ze werkt dicht op de praktijk, verbindt bestuur, werkvloer en technologie en vertaalt die samenhang naar onderbouwde keuzes en toepassingen die in de praktijk standhouden.
+Met een MSc in Gezondheidswetenschappen en haar lopende Impact MBA in Sustainability, Entrepreneurship & Technology verbindt ze onderzoek, bedrijfswaarde en mensgerichte innovatie. Ze verdiept zich daarbij in Data Science en toegepaste AI. Haar achtergrond omvat ook ondernemerschap en cultuur.
 
 Over Iris en GVI
 
@@ -276,23 +224,23 @@ Veelgestelde vragen
 
 ## De praktische vragen voor je begint
 
-Waar beginnen we zonder concrete use-case?
+Wat is er nu beschikbaar?
 
-Met de AI Operations Sprint. Binnen één werkgebied vergelijken we meerdere workflows en knelpunten. Je eindigt met één onderbouwde keuze en, bij een go, een pilotontwerp.
+GVI verkent uitsluitend deelname via de Founding Instap voor Nederlandse MKB-bedrijven rond één AI Operations-workflow. Scope en planning worden samen vastgelegd. Er loopt maximaal één pilot tegelijk.
 
-Wat is het verschil tussen de Sprint en de Organisatiescan?
+Wat vraagt deelname van ons?
 
-De Sprint kiest één kansrijke workflow binnen een afgebakend werkgebied. De Governance & Organisatiescan kijkt organisatiebreed naar gebruik, verantwoordelijkheden, gegevens, leveranciers en menselijk toezicht.
+Voor deze instap geldt geen GVI-honorarium. Je organisatie doet rechtstreeks een betekenisvolle donatie aan een erkend goed doel naar eigen keuze, maakt tijd en toegang beschikbaar, werkt mee aan praktijkonderzoek en geeft eerlijke, vertrouwelijke feedback. Een testimonial of openbare case blijft vrijwillig.
 
-Kunnen we ook met een losse training beginnen?
+Kunnen we een training of ander traject aanvragen?
 
-Ja. Trainingen en werkvormen zijn los boekbaar en vormen een laagdrempelige manier om met een team, MT of directie aan een concrete vraag te werken.
+De intake is nu beperkt tot dit praktijkonderzoek. Reguliere opdrachten, trainingen en andere trajecten staan op hold. Dat aanbod wordt verwacht in 2027; er is nog geen vaste startdatum.
 
 ## Waar kan AI werkelijk waarde leveren?
 
-Tijdelijk zijn enkele Founding plekken beschikbaar voor de AI Operations Sprint.
+Verken de businesscase van jouw werkproces.
 
-Plan een verkennend gesprek Bekijk de Founding Instap
+Plan een verkenning Bekijk de voorwaarden
 
 ---
 
@@ -304,7 +252,7 @@ Hoe we werken
 
 # Onze aanpak
 
-Van complex vraagstuk naar een uitlegbare keuze en werkende praktijk.
+De huidige toepassing van deze aanpak is de Founding Instap: één afgebakende AI Operations-workflow voor een Nederlands MKB-bedrijf.
 
 De route
 
@@ -338,9 +286,9 @@ Eindigt in: een keuze die je kunt uitleggen.
 
 ### Doen
 
-We begeleiden teams naar verantwoord gebruik in de praktijk — met training, werkvormen en duidelijke afspraken.
+Binnen Founding bereiden we een eventuele, afgebakende proef voor. Scope, onderzoeksafspraken en menselijke beslismomenten worden vooraf vastgelegd.
 
-Eindigt in: verantwoord gebruik dat beklijft.
+Eindigt in: een onderbouwd besluit over een passende proef.
 
 Waar we op sturen
 
@@ -368,525 +316,219 @@ Afspraken en leren horen bij elkaar. Beleid zonder praktijk werkt niet — en an
 
 ---
 
-## Pagina: AI Governance & Organisatiescan — organisatiebreed grip op AI | GVI
+## Pagina: AI Governance & Organisatiescan — verwacht in 2027 | GVI
 
 URL: https://www.globalvoiceintelligence.com/ai-audit-governance/
 
-Verdiepende organisatiescan
+Expertise · aanbod verwacht in 2027
 
 # AI Governance & Organisatiescan
 
-Wat gebeurt er organisatiebreed al met AI — en hebben we daar voldoende grip op?
+Organisatiebreed zicht op AI-gebruik, verantwoordelijkheden, gegevens, leveranciers en menselijk toezicht.
 
-We verbinden bestaand en verborgen AI-gebruik met verantwoordelijkheden, gegevens, leveranciers en menselijk toezicht. Zo ontstaat één bestuurbaar beeld over teams en systemen heen.
+Dit aanbod staat op hold. Er is nog geen vaste startdatum; GVI neemt hiervoor nu geen opdrachten aan.
 
-Plan een verkennend gesprek
+## De inhoudelijke blik
 
-## Dieper dan één workflow
+Goed AI-bestuur verbindt de werkpraktijk met heldere verantwoordelijkheden. De vragen gaan over welke toepassingen worden gebruikt, wie beslissingen neemt en hoe gegevens en risico’s worden beheerd.
 
-De Operations Sprint kiest één kans binnen een afgebakend werkgebied. Deze scan kijkt organisatiebreed: wat gebeurt er al, waar zitten blinde vlekken en hoe maken we eigenaarschap en toezicht werkbaar?
+Lees de kennis en whitepapers →
 
-Relevante vragen uit AI Act en AVG gaan mee. Formele juridische, DPIA- of conformiteitsbeoordelingen vragen waar nodig specialistische toetsing.
+Wat nu wel past
 
-## Wat onderzoeken we?
+## Founding voor het Nederlandse MKB
 
-### Gebruik & risicoprofiel
-
-Welke toepassingen worden gebruikt, waarvoor, en wat vraagt extra zorg of specialistische toetsing?
-
-### Schaduw-AI
-
-Wat draait er buiten IT om? "Geen incidenten" betekent vaak: niet gezien.
-
-### Data & privacy
-
-Hoe worden gegevens van burgers, personeel en organisatie verwerkt?
-
-### Menselijk toezicht
-
-Waar zit de mens aan het stuur — en is dat echt toezicht of een stempel?
-
-### Governance
-
-Wie is waarvoor verantwoordelijk, en is dat belegd?
-
-### Leveranciers
-
-Waar ben je afhankelijk van één tool of partij?
-
-## Hoe de organisatiescan verloopt
-
--
-
-### Inventaris
-
-We leggen per toepassing doel, eigenaar, gegevens, leverancier en gebruikscontext vast.
-
-Eindigt in: één feitelijk startbeeld.
-
--
-
-### Toezicht & verklaarbaarheid
-
-We toetsen beslisrechten, gegevensstromen, toegang en de uitvoerbaarheid van menselijk toezicht.
-
-Eindigt in: zicht op waar het knelt.
-
--
-
-### Synthese
-
-We verbinden losse bevindingen tot dwarsverbanden en één tot drie hefboompunten.
-
-Eindigt in: de rode draad, geen stapel oordelen.
-
--
-
-### Besluit & eerste 90 dagen
-
-We bepalen prioriteiten, eigenaren en de eerste negentig dagen. Voor gemeenten sluiten we waar passend aan op het VNG AI-Governancekader.
-
-Eindigt in: een beslismotor om mee te starten.
-
-## Wat krijg je terug?
-
-- een bestuurlijk leesbaar scanbeeld en AI-inventaris
-
-- dwarsverbanden en hefboompunten over teams en systemen heen
-
-- werkbare beslisrechten en governance-aanbevelingen
-
-- prioriteiten, eigenaren en een plan voor de eerste negentig dagen
-
-Geen organisatiebrede vraag, maar behoefte aan één kansrijke eerste pilot? Begin met de AI Operations Sprint binnen één afgebakend werkgebied.
-
----
-
-## Pagina: AI-geletterdheid & Adoptie — praktisch en aantoonbaar | GVI
-
-URL: https://www.globalvoiceintelligence.com/ai-geletterdheid-adoptie/
-
-Oplossing
-
-# AI-geletterdheid & Adoptie
-
-Je team gebruikt AI al. Zorg dat mensen begrijpen wat het kan, waar het faalt en wanneer een mens moet beslissen — passend bij hun werk en verantwoordelijkheid.
-
-Plan een verkennend gesprek Ontvang de whitepaper
-
-## Herken je dit?
-
-- Medewerkers gebruiken ChatGPT of Copilot, maar niemand weet precies waarvoor — en met welke gegevens.
-
-- Er is een workshop geweest. Drie weken later was alles weer zoals daarvoor.
-
-- Een deel van het team is enthousiast, een ander deel is stil — en die stilte gaat over banen, kwaliteit en verantwoordelijkheid.
-
-- Je hoort dat AI-geletterdheid verplicht is, maar niemand kan je vertellen welke maatregelen passend zijn voor jouw organisatie — of hoe je die inzichtelijk maakt.
-
-Artikel 4 van de AI Act vraagt sinds 2 februari 2025 van aanbieders en gebruiksverantwoordelijken dat zij maatregelen nemen om AI-geletterdheid te ondersteunen. De wet schrijft geen vast niveau of examen voor; kennis, ervaring en gebruikscontext bepalen wat passend is.
-
-Onze aanpak
-
-## AI-geletterdheid in vier fasen
-
-Leren in het eigen werk, met afspraken en herhaling.
-
--
-
-### Bewustwording & gesprek
-
-We brengen huidig gebruik, kennis, vragen en zorgen in beeld.
-
--
-
-### Leren in het eigen werk
-
-Deelnemers oefenen rolgericht op eigen taken en testen minstens één lastig grensgeval.
-
--
-
-### Afspraken & voorleven
-
-Teams maken begrijpelijke afspraken; leidinggevenden laten in hun eigen handelen zien wat verantwoord gebruik is.
-
--
-
-### Borgen & vernieuwen
-
-We bouwen een licht ritme voor opfrissen, nieuwe toepassingen wegen en maatregelen documenteren.
-
-## Uit de praktijk
-
-In januari 2026 bouwden deelnemers van de tweedaagse Agentic AI voor Beleid bij de gemeente Apeldoorn hun eigen mini-agent en legden ze de grenzen vast in een Agent Charter. Zo landde de techniek direct in hun eigen beleidswerk.
-
-## Wat krijg je terug?
-
-- een plan in fasen, passend bij de organisatie
-
-- rolgerichte werkvormen op het eigen werk
-
-- korte afspraken over gegevens, controle en menselijk oordeel
-
-- een spoor voor leidinggevenden
-
-- een praktijkdossier met deelnemers, leerdoelen, werkvormen en gemaakte keuzes
-
-Liever losse werkvormen — een basisworkshop, een AI-clinic op eigen documenten, of een training voor leidinggevenden? Onze werkvormen zijn los boekbaar per dagdeel; meerdere modules op aanvraag. Zie AI Trainingen.
-
----
-
-## Pagina: AI Operations — van kans naar pilot en partnership | GVI
-
-URL: https://www.globalvoiceintelligence.com/ai-regie-scan/
-
-Eén route · drie beslismomenten
-
-# AI Operations
-
-Van meerdere AI-kansen naar één bewezen workflow die je beheerst en gericht blijft verbeteren.
-
-Kies eerst waar AI waarde kan leveren. Bewijs het daarna in echt werk. Breid pas uit als het werkt.
+De huidige intake is uitsluitend de Founding Instap rond één afgebakende AI Operations-workflow. Deelname, onderzoek en een eventuele pilot worden vooraf samen afgebakend.
 
 Bekijk de Founding Instap
 
-De Operations-route
+---
 
-## Kiezen, bewijzen, blijven verbeteren
+## Pagina: AI-geletterdheid & Adoptie — verwacht in 2027 | GVI
 
-Iedere fase eindigt in een besluit: doorgaan, bijstellen, wachten of stoppen.
+URL: https://www.globalvoiceintelligence.com/ai-geletterdheid-adoptie/
 
--
+Expertise · aanbod verwacht in 2027
 
-### AI Operations Sprint
+# AI-geletterdheid & Adoptie
 
-Vergelijk meerdere kansen binnen één afgebakend werkgebied en kies welke workflow een pilot verdient.
+Mensen toerusten voor verstandig AI-gebruik in hun eigen werk.
 
-Kiezen ↓
+Dit aanbod staat op hold. Er is nog geen vaste startdatum; GVI neemt hiervoor nu geen opdrachten aan.
 
--
+## De inhoudelijke blik
 
-### AI Workflow Pilot
+Begrijpen, toepassen, wegen en begrenzen horen bij elkaar. Vakmanschap, gedeelde werkafspraken en menselijk oordeel vormen de basis voor zorgvuldig gebruik van AI.
 
-Test de gekozen werkwijze op echt werk, inclusief meetlat, faalgevallen, overdracht en menselijk oordeel.
+Lees de kennis en whitepapers →
 
-Bewijzen →
+Wat nu wel past
 
--
+## Founding voor het Nederlandse MKB
 
-### AI Operations Partnership
+De huidige intake is uitsluitend de Founding Instap rond één afgebakende AI Operations-workflow. Deelname, onderzoek en een eventuele pilot worden vooraf samen afgebakend.
 
-Verbeter een werkende AI-praktijk in een vast ritme, met begrensde capaciteit en blijvend eigenaarschap.
-
-Blijven verbeteren →
-
-Fase 1 · AI Operations Sprint
-
-## Geen scanrapport, maar een besluit dat verder helpt
-
-Binnen één begrensd werkgebied vergelijken we meerdere workflows op waarde, uitvoerbaarheid, gegevens, risico, adoptie en bestuurbaarheid. Heb je al een concrete use-case, dan toetsen we die aan de alternatieven.
-
-De uitkomst: één gekozen workflow en een expliciet pilotbesluit. Bij een go ligt er een compact ontwerp met eigenaar, succesmaat, menselijke beslismomenten en stopregel.
-
-De beslisuitkomst
-
-## Wat je krijgt
-
-- een scherpe afbakening van één team, domein of procesfamilie
-
-- een kansenkaart en onderbouwde vergelijking van meerdere workflows
-
-- één gekozen workflow, met afspraken over gegevens, eigenaarschap en menselijk oordeel
-
-- een expliciete go / not yet / no-go
-
-- bij een go: een compact pilotontwerp met doel, meetlat en stopregel
-
-01 · Zien
-
-### Het echte werk
-
-We begrenzen het werkgebied en brengen workflows, knelpunten, overdrachten, mensen en gegevens in beeld.
-
-02 · Wegen
-
-### Waarde én uitvoerbaarheid
-
-We vergelijken de kansen op waarde, inspanning, data, risico, adoptie en bestuurbaarheid — niet op aantrekkelijkheid van de tool.
-
-03 · Kiezen
-
-### Eén onderbouwde keuze
-
-We kiezen de workflow die een pilot verdient en maken expliciet waarom andere ideeën nu wachten of afvallen.
-
-04 · Voorbereiden
-
-### Een pilot die kan slagen én stoppen
-
-We leggen eigenaar, meetpunt, menselijk beslismoment en stopregel vast voordat er wordt gebouwd.
-
-Founding Instap · AI Operations Sprint
-
-## Eén Sprint. Drie keer waarde.
-
-Via de Founding Instap nodigt GVI een beperkt aantal organisaties uit om als eerste een volwaardige AI Operations Sprint te doorlopen. GVI rekent daarvoor geen honorarium. In plaats daarvan doet de organisatie rechtstreeks een betekenisvolle donatie aan een erkend goed doel naar eigen keuze.
-
-Je brengt een concrete werkvraag, een interne opdrachtgever, tijd en toegang tot de werkpraktijk in. Je werkt mee aan onderzoek naar hoe AI Operations in de praktijk waarde oplevert en geeft eerlijke, vertrouwelijke feedback. GVI levert daarvoor de volledige Sprint: een onderbouwde workflowkeuze met eigenaar, meetlat, menselijke beslismomenten en een uitvoerbaar pilotontwerp.
-
-Zo ontstaat drie keer waarde: je organisatie krijgt een concrete volgende stap, het onderzoek wordt gevoed door echte werkpraktijk en een goed doel ontvangt directe steun. Een testimonial of openbare case blijft een afzonderlijke, vrijwillige keuze.
-
-Bespreek een Founding plek
+Bekijk de Founding Instap
 
 ---
 
-## Pagina: AI Operations Partnership — AI blijvend verbeteren | GVI
+## Pagina: Founding Instap — AI Operations voor het MKB | GVI
+
+URL: https://www.globalvoiceintelligence.com/ai-regie-scan/
+
+Founding Instap · Nederlandse MKB-bedrijven
+
+# AI Operations
+
+Waar levert AI jouw bedrijf werkelijk iets op?
+
+Eén werkproces, een heldere businesscase en een gerichte proef. Samen onderzoeken we waar AI tijd kan vrijmaken, kosten kan verlagen of kwaliteit kan verbeteren, met menselijke regie over het werk.
+
+Bespreek de Founding Instap
+
+AI Operations Sprint
+
+## Van werkvraag naar businesscase
+
+We brengen in beeld wat het huidige proces aan tijd en geld kost, waar fouten of vertraging ontstaan en welke verbetering telt. Daar zetten we de verwachte opbrengst én de kosten van invoering, gebruik en beheer tegenover. Zo onderzoeken we het rendement op de investering (ROI). De mensen die het werk uitvoeren helpen bepalen wat bruikbaar is en waar hun oordeel nodig blijft.
+
+Je krijgt een onderbouwde afweging: welke opbrengst is aannemelijk, welke investering vraagt die en wat moet een pilot nog bewijzen? We spreken scope, tijdsinzet en onderzoeksafspraken vooraf af. Een eventuele pilot toetst de businesscase met een nulmeting, meetlat en stopregel. Er loopt maximaal één pilot tegelijk.
+
+## De eerste stappen
+
+01
+
+### Bedrijfsvraag verkennen
+
+Waar verliest je bedrijf tijd, geld of kwaliteit? Welke verbetering helpt klanten, medewerkers en bedrijfsvoering?
+
+02
+
+### Businesscase afwegen
+
+We vergelijken verwachte opbrengsten met investering en beheer, en leggen scope, meetlat en onderzoeksafspraken vast.
+
+03
+
+### Waarde toetsen
+
+Een afgesproken pilot toetst tijdwinst, kwaliteit en werkbaarheid op echt werk. De uitkomst onderbouwt doorgaan, aanpassen of stoppen; bredere implementatie valt buiten Founding.
+
+De voorwaarden
+
+## Founding Instap
+
+GVI rekent geen honorarium voor de afgesproken Founding Instap. Je organisatie doet rechtstreeks een betekenisvolle donatie aan een erkend goed doel naar eigen keuze. De donatie loopt niet via GVI.
+
+Je brengt een concrete werkvraag, een interne opdrachtgever, tijd en toegang tot de werkpraktijk in. Meewerken aan praktijkonderzoek naar AI Operations en eerlijke, vertrouwelijke feedback zijn onderdeel van deelname. De precieze onderzoeksafspraken en omgang met gegevens worden vooraf besproken en vastgelegd.
+
+Een testimonial of toestemming voor een openbare case is een afzonderlijke, vrijwillige keuze.
+
+Een aanvraag is een verkenning. Deelname en planning volgen pas als vraag, scope en beschikbare ruimte passen.
+
+Leg je werkvraag voor
+
+## Wat komt later?
+
+Reguliere commerciële opdrachten, losse trainingen en het AI Operations Partnership staan op hold. Dit aanbod wordt verwacht in 2027; een vaste startdatum is er nog niet.
+
+---
+
+## Pagina: AI Operations Partnership — verwacht in 2027 | GVI
 
 URL: https://www.globalvoiceintelligence.com/ai-strategie-roadmap/
 
-Doorlopende samenwerking
+Expertise · aanbod verwacht in 2027
 
 # AI Operations Partnership
 
-Niet opleveren en verdwijnen, maar samen zorgen dat AI blijft werken.
+Gericht blijven verbeteren met eigenaarschap, een vast ritme en begrensde capaciteit.
 
-Een vast ritme om werkende AI-workflows te gebruiken, verbeteren en gecontroleerd uit te breiden.
+Dit aanbod staat op hold. Er is nog geen vaste startdatum; GVI neemt hiervoor nu geen opdrachten aan.
 
-Bespreek een partnership
+## De inhoudelijke blik
 
-## Doorlopende waarde vraagt om een vast ritme
+Een doorlopende samenwerking kan helpen om een geteste workflow te onderhouden, gebruik te evalueren en pas uit te breiden wanneer de praktijk daarvoor aanleiding geeft.
 
-Processen, teams en leveranciers veranderen. Het Partnership maakt GVI tot vaste denk- en verbeterpartner: met een afgesproken cyclus, duidelijke verantwoordelijkheden en begrensde capaciteit.
+Lees de kennis en whitepapers →
 
-De maandelijkse werkcyclus
+Wat nu wel past
 
-## Wat we iedere maand samen doen
+## Founding voor het Nederlandse MKB
 
-### Operations Review
+De huidige intake is uitsluitend de Founding Instap rond één afgebakende AI Operations-workflow. Deelname, onderzoek en een eventuele pilot worden vooraf samen afgebakend.
 
-We bekijken wat er werkelijk wordt gebruikt, waar het schuurt en welke beslissing nodig is.
-
-### Gerichte verbetering
-
-We verbeteren binnen de afgesproken capaciteit één prioriteit, werkwijze of guardrail tegelijk.
-
-### Adoptie & eigenaarschap
-
-We houden helder wie verantwoordelijk is, waar menselijk oordeel nodig blijft en wat het team nodig heeft.
-
-### Besluit & vervolg
-
-Je krijgt een korte terugkoppeling met besluiten, eigenaren en de eerstvolgende stap.
-
-Ieder kwartaal herijken we de koers: doorgaan, bijstellen, stoppen of een volgende workflow onderzoeken.
-
-## Duidelijke grenzen beschermen het partnership
-
-- een vaste maandelijkse cyclus met afgesproken verbetercapaciteit
-
-- geen onbeperkte helpdesk of impliciete 24/7-beschikbaarheid
-
-- monitoring alleen als systemen, toegang en verantwoordelijkheden dat betrouwbaar toelaten
-
-- scope, responstijd, gegevens en eigenaarschap worden vooraf vastgelegd
-
-Vaste maandelijkse investering
-
-## Een partnership dat past bij wat er werkelijk beheerd wordt
-
-De maandprijs volgt uit het aantal actieve workflows, teams en de afgesproken verbetercapaciteit. Je krijgt vooraf één scope en prijs.
-
-Bespreek de passende vorm
-
-## Wanneer past dit?
-
-Dit past wanneer minimaal één workflow of pilot actief wordt gebruikt en een eigenaar heeft. Nog geen heldere keuze? Start met de Sprint. Nog niet getest? Kies de Workflow Pilot.
+Bekijk de Founding Instap
 
 ---
 
-## Pagina: AI-trainingen, werkvormen en leiderschapsontwikkeling | GVI
+## Pagina: Trainingen & werkvormen — verwacht in 2027 | GVI
 
 URL: https://www.globalvoiceintelligence.com/ai-trainingen/
 
-Praktische instap
+Expertise · aanbod verwacht in 2027
 
 # Trainingen & werkvormen
 
-Laat mensen oefenen op hun eigen werk. Geen losse demo, maar een taak, inzicht of werkwijze die ze daarna zelf kunnen gebruiken.
+Leren aan het eigen werk, met aandacht voor AI-leiderschap en menselijk oordeel.
 
-Vraag een werkvorm aan
+Dit aanbod staat op hold. Er is nog geen vaste startdatum; GVI neemt hiervoor nu geen opdrachten aan.
 
-Voor ondernemers, bestuur en directie
+## De inhoudelijke blik
 
-## Versterk je AI-leiderschap
+GVI’s ervaring omvat hands-on werkvormen rond agentic AI, waaronder een tweedaagse training voor gemeente Apeldoorn. Die praktijk voedt de expertise in leren, leiderschap en verantwoorde toepassing.
 
-Een gericht traject van executive upskilling, coaching en werken aan de AI-beslissingen die nu op jouw tafel liggen.
+Lees de kennis en whitepapers →
 
-Je leert AI zelf gebruiken, kansen zakelijk wegen, grenzen en verantwoordelijkheden bepalen en je organisatie sturen op meetbaar resultaat.
+Wat nu wel past
 
-- werk aan echte investerings- en implementatiekeuzes
+## Founding voor het Nederlandse MKB
 
-- ontwikkel een persoonlijke leer- en experimenteercyclus
+De huidige intake is uitsluitend de Founding Instap rond één afgebakende AI Operations-workflow. Deelname, onderzoek en een eventuele pilot worden vooraf samen afgebakend.
 
-- vertaal je koers naar helder eigenaarschap en werkbare afspraken
-
-Bespreek een leiderschapstraject
-
-Catalogus
-
-## Kies wat past bij je vraag
-
-Voor teams die starten
-
-### Basisworkshop AI
-
-Wat kan AI, wat niet en hoe gebruik je het veilig? Oefenen op een eigen taak, met zeven basisprompts als spiekbrief.
-
-Voor wie verder wil
-
-### Prompting Pro
-
-Structuur, context en controle over de uitkomst. Deelnemers bouwen een eigen promptbibliotheek op echte werktaken.
-
-Direct resultaat
-
-### AI-clinic met eigen documenten
-
-Werk aan wat nu op je bureau ligt. Iedere deelnemer rondt minstens één stuk af en leert hoe dat opnieuw kan.
-
-Voor beleids- en kenniswerk
-
-### Tekst, beleid en samenvatten
-
-Sneller schrijven en samenvatten met controle op bronnen, kwaliteit en zorgvuldigheid.
-
-Kleine automatiseringen
-
-### Mini-agent / workflow workshop
-
-Maak één terugkerende taak slimmer en leg doel, grenzen en menselijk oordeel vast in een Agent Charter.
-
-Voor bestuur en management
-
-### AI-leiderschap in één dagdeel
-
-Een compacte werkvorm om kansen, risico’s en eigen voorbeeldgedrag te onderzoeken — met een afwegingskader voor actuele dossiers.
-
-Los boekbaar per dagdeel, incompany of op locatie en modelonafhankelijk. Meerdere modules op aanvraag.
-
-In de praktijk
-
-## Zo ziet een tweedaagse eruit
-
-Agentic AI voor Beleid — gemeente Apeldoorn, januari 2026. Deelnemers bouwden een eigen mini-agent op beleidswerk en legden doel, grenzen en menselijk oordeel vast in een Agent Charter.
-
-Wat deelnemers meemaakten
-
-### Van boodschappenlijst naar beleidsagent
-
-Twee dagen, een eigen mini-agent per deelnemer en een Agent Charter als blijvend werkinstrument.
-
-Voor events
-
-## Keynotes & presentaties
-
-Event · congres · heidag
-
-### Keynote op maat
-
-Prijs op aanvraag — vertel kort iets over je publiek en gelegenheid.
-
-Een verhaal op maat: nuchter over technologie, scherp op de keuzes en steeds terug naar wat AI betekent voor mensen en hun vak.
-
-Vraag een keynote aan
-
-Programma
-
-### Structureel leren en borgen
-
-Combineer werkvormen met afspraken, een spoor voor leidinggevenden en een praktijkdossier binnen AI-geletterdheid & Adoptie.
-
-Bekijk het programma
+Bekijk de Founding Instap
 
 ---
 
-## Pagina: AI Workflow Pilot — van idee naar werkende praktijk | GVI
+## Pagina: AI Workflow Pilot — binnen de Founding-route | GVI
 
 URL: https://www.globalvoiceintelligence.com/ai-workflow-pilot/
 
-AI Operations · fase 2
+AI Operations · binnen Founding
 
 # AI Workflow Pilot
 
-Test één concrete use-case op echt werk, verbeter het proces eromheen en draag de werkwijze over aan je eigen team.
+Toets wat AI in één werkproces oplevert: tijdwinst, kosten, kwaliteit en ruimte voor het werk waarin mensen het verschil maken.
 
-Plan een verkennend gesprek
+Een pilot is alleen mogelijk als afgesproken onderdeel van de Founding-route. Er loopt maximaal één pilot tegelijk; losse commerciële pilotopdrachten worden nu niet aangenomen.
 
-## Voor wie is dit?
+## Van verwachte opbrengst naar gemeten waarde
 
-Voor organisaties die al weten wat ze willen proberen, maar nog moeten bewijzen dat het veilig, waardevol en beheersbaar werkt. De pilot krijgt vooraf een eigenaar, meetlat en stopregel.
+We vergelijken de uitgangssituatie met het werk tijdens de proef. Naast tijdwinst en kwaliteit tellen ook controlewerk, gebruikskosten en beheer mee. Met je team beoordelen we of de werkwijze bruikbaar is en waar menselijk oordeel nodig blijft. Zo ontstaat een onderbouwd besluit over de volgende investering. Scope, meetlat en onderzoeksafspraken leggen we vóór de pilot vast; de pilot start na een gezamenlijk besluit.
 
-## Hoe pakken we het aan?
-
--
-
-### Meetlat vooraf vastleggen
-
-We kiezen één meetbare uitkomst met een slaag- en faaldrempel voordat er iets wordt gebouwd.
-
--
-
-### Het proces herontwerpen
-
-We schrappen overbodige stappen en plaatsen AI alleen waar het werk er aantoonbaar beter van wordt.
-
--
-
-### Lastige gevallen testen
-
-De workflow moet ook veilig reageren op ontbrekende informatie, gevoelige gegevens, hallucinaties en escalaties.
-
--
-
-### Overdragen aan het team
-
-Je team kan de workflow zelf draaien, bijsturen en uitzetten. Toegang, documentatie en eigenaarschap blijven bij jou.
-
-## Wat krijg je terug?
-
-- een werkende, overgedragen workflow of agent, getest op echt werk
-
-- de meetlat met de gemeten uitkomst
-
-- een testlog van normale én lastige gevallen
-
-- beheerdocumentatie en afspraken over gegevens, toegang en beheer
-
-- een besluit: doorzetten, aanpassen of stoppen
-
-## Nog geen concrete use-case?
-
-Begin dan met de AI Operations Sprint. Daar vergelijken we meerdere kansen en kiezen we welke workflow een pilot verdient.
+Bekijk de Founding Instap
 
 ---
 
-## Pagina: Contact — plan een verkennend gesprek | GVI
+## Pagina: Contact — bespreek de Founding Instap | GVI
 
 URL: https://www.globalvoiceintelligence.com/contact/
 
 Contact
 
-# Plan een verkennend gesprek
+# Bespreek de Founding Instap
 
-Vertel kort waar je staat en waar je tegenaan loopt. Je krijgt altijd een persoonlijke reactie — van een mens, niet van een bot. Meestal binnen een paar werkdagen.
+Beschrijf één workflow of knelpunt in je Nederlandse MKB-bedrijf. Iris beoordeelt persoonlijk of de vraag past. Dit formulier is een eerste verkenning, geen bevestiging van deelname of planning.
 
-## Vertel kort wat er speelt
+## Wat zou je willen onderzoeken?
+
+De intake is nu uitsluitend voor Founding. Reguliere opdrachten en ander aanbod staan op hold; verwacht in 2027, zonder vaste startdatum.
 
 Je gegevens gaan via Web3Forms naar GVI en worden alleen gebruikt om je vraag te behandelen. Zie de privacyverklaring.
 
 ### Liever direct?
 
-Gebruik het formulier voor een inhoudelijke vraag of plan een eerste verkenning. Je bericht komt rechtstreeks bij Iris terecht.
+Je bericht komt rechtstreeks bij Iris terecht. Deel alleen een korte beschrijving van de werkvraag; stuur nog geen bedrijfsdocumenten of gevoelige gegevens mee.
 
 Neem contact op via LinkedIn →
 
@@ -894,37 +536,31 @@ We verzamelen niet meer gegevens dan nodig.
 
 ---
 
-## Pagina: Innoveren met AI — van vraag naar experiment | GVI
+## Pagina: Innoveren met AI — verwacht in 2027 | GVI
 
 URL: https://www.globalvoiceintelligence.com/innoveren-met-ai/
 
-Oplossing · twee werkvormen
+Expertise · aanbod verwacht in 2027
 
 # Innoveren met AI
 
-Vertaal een strategisch vraagstuk met medewerkers, klanten of partners naar concepten die je werkelijk kunt testen.
+Nieuwe diensten, proposities en klantwaarde onderzoeken.
 
-Plan een verkennend gesprek
+Dit aanbod staat op hold. Er is nog geen vaste startdatum; GVI neemt hiervoor nu geen opdrachten aan.
 
-## Wanneer past dit?
+## De inhoudelijke blik
 
-Als de vraag niet is “hoe werken we slimmer?”, maar “wat kunnen we klanten, inwoners of partners nieuw bieden?” Dit is een ontwerpvraag: samen maken, toetsen en leren. Nog geen heldere eerste keuze, begin dan met de AI Operations Sprint.
+AI kan ruimte geven om anders naar een klantvraag te kijken. Innovatie vraagt om ideeën te toetsen met de mensen voor wie ze bedoeld zijn, met aandacht voor uitvoerbaarheid en betekenis.
 
-De werkvormen
+Lees de kennis en whitepapers →
 
-## Twee manieren om samen te innoveren
+Wat nu wel past
 
-### AI Innovatie Sprint (1 dag)
+## Founding voor het Nederlandse MKB
 
-Van strategisch vraagstuk naar drie of vier concepten en één of twee testbare experimenten, ieder met eigenaar en meetlat.
+De huidige intake is uitsluitend de Founding Instap rond één afgebakende AI Operations-workflow. Deelname, onderzoek en een eventuele pilot worden vooraf samen afgebakend.
 
-### AI Co-creatie Traject (4–6 weken)
-
-Ontwerp en toets met klanten, medewerkers of ketenpartners nieuwe service- of productkansen. De beste experimenten worden beslisklaar gemaakt.
-
-## AI als co-facilitator, nooit als leider
-
-AI kan opties verbreden, materiaal clusteren en patronen zichtbaar maken. Mensen kennen betekenis toe, kiezen en nemen de beslissing.
+Bekijk de Founding Instap
 
 ---
 
@@ -972,9 +608,9 @@ Over GVI
 
 Beslissen blijft mensenwerk.
 
-GVI verbindt strategie, werkpraktijk en technologie om AI om te zetten in aantoonbaar beter werk — met grip op gegevens, risico’s en verantwoordelijkheid.
+GVI verbindt AI-strategie, bedrijfswaarde en mensgerichte innovatie. We helpen organisaties onderbouwd kiezen waar AI rendeert en hoe de toepassing werkbaar blijft voor hun mensen.
 
-Plan een verkenning Bekijk AI Operations →
+Bespreek de Founding Instap Bekijk de Founding Instap →
 
 Iris Ficker Younge Oprichter · Forward-Deployed AI Lead
 
@@ -1004,13 +640,13 @@ Over gegevens, leveranciers, risico’s, vakmanschap en blijvende verbetering.
 
 Iris Ficker Younge
 
-## Systeemintelligentie. Vertaalkracht. Uitvoeringskwaliteit.
+## Governance. Wetenschap. Ondernemerschap.
 
-Iris is een interdisciplinair systeemdenker, ondernemer en Forward-Deployed AI Lead. Haar loopbaan van ruim dertig jaar verbindt cultuur, onderzoek, publieke strategie, duurzame innovatie en technologie.
+Iris Ficker Younge is strategisch AI-adviseur en Forward-Deployed AI Lead. Haar basis ligt in governance en bestuurlijke besluitvorming: als senior strategisch beleidsadviseur en beleidsregisseur bij gemeenten verbond ze maatschappelijke opgaven aan investeringen, exploitatie en uitvoerbare besluiten. Ze adviseerde wethouders en management, woog financiële risico’s en bracht bestuurders, professionals en gebruikers bij elkaar.
 
-Als onafhankelijke AI-transformatiepartner werkt ze op het snijvlak van strategie en uitvoering. Ze verbindt bestuur, professionals, gebruikers en technologie, maakt patronen en afhankelijkheden zichtbaar en vertaalt die samenhang naar keuzes die bestuurlijk kloppen, zakelijk waarde kunnen leveren en uitvoerbaar zijn.
+Ze behaalde haar MSc in Gezondheidswetenschappen, Public Health & Health Education, aan Maastricht University. Onderzoeksontwerp, data-analyse en de wisselwerking tussen mensen en systemen vormen haar wetenschappelijke basis. Die verdiept ze nu met de Impact MBA in Sustainability, Entrepreneurship & Technology aan Tomorrow University, aangevuld met Data Science en toegepaste AI.
 
-Praktijk is voor Iris geen tegenhanger van strategie, maar haar toetssteen. In een tweedaagse training voor gemeente Apeldoorn en bij de ontwikkeling van Fluisterstroom en De Neuronauten maakt ze strategische vragen concreet: waar voegt AI waarde toe, wie houdt regie, welke risico’s zijn beheersbaar en welke beslissingen blijven bij mensen? Over de lessen uit die praktijk spreekt ze in 2026 op Data Expo.
+Met GVI brengt ze die ervaring naar AI Operations: een scherpe bedrijfsvraag vertalen naar een businesscase en een proef die laat zien wat in de praktijk werkt. Ze combineert strategisch advies met zelf bouwen en testen, onder meer in Fluisterstroom en De Neuronauten. Over de lessen uit haar AI-praktijk sprak ze op Data Expo 2026. Ook ondernemerschap, duurzame materiaalinnovatie en haar eerdere werk als projectleider en musicus in de culturele sector maken deel uit van haar achtergrond.
 
 Sprekersprofiel Data Expo → Iris op LinkedIn →
 
@@ -1086,170 +722,88 @@ Laatst bijgewerkt: 22 augustus 2026. Deze verklaring beschrijft de huidige websi
 
 ---
 
-## Pagina: AI voor bedrijven en ondernemende teams | GVI
+## Pagina: Voor wie — Founding voor Nederlandse MKB-bedrijven | GVI
 
 URL: https://www.globalvoiceintelligence.com/voor-mkb/
 
-Voor wie · bedrijven & ondernemende teams
+Founding Instap
 
-# AI voor bedrijven
+# Voor het Nederlandse MKB
 
-AI praktisch inzetten, zonder toolchaos of nieuwe afhankelijkheid.
+Je wilt weten waar AI tijd, kosten of kwaliteit kan verbeteren en of de opbrengst opweegt tegen de investering. We onderzoeken één concreet werkproces, samen met de mensen die het uitvoeren.
 
-Bekijk de AI Operations Sprint
+Bekijk de Founding Instap
 
-## Herken je dit?
+## Wanneer past het?
 
-- Medewerkers proberen van alles met AI, maar niemand overziet de waarde.
+- De vraag is af te bakenen tot één workflow.
 
-- Je wilt tempo maken zonder geld te verbranden.
+- Een interne opdrachtgever kan keuzes maken.
 
-- Je twijfelt welke gegevens veilig in welke tool kunnen.
+- De betrokken mensen maken tijd voor onderzoek en eerlijke feedback.
 
-Van probleem naar oplossing
+- Toegang, gegevensgebruik en verantwoordelijkheid kunnen vooraf worden afgesproken.
 
-## Zo helpt Global Voice Intelligence
+We bespreken eerst de werkvraag en bepalen samen of deelname passend is. Scope en planning worden pas daarna vastgelegd.
 
-### "Waar moeten we beginnen?"
+## Andere vragen
 
-Vergelijk binnen één werkgebied meerdere kansen en maak de beste workflow pilotklaar.
-
-Bekijk de Sprint →
-
-### "Mijn team moet er beter mee leren werken."
-
-Oefen met je eigen werk: van basisworkshop tot AI-clinic of sessie voor leidinggevenden.
-
-Bekijk de trainingen →
-
-### "We hebben één taak die veel tijd vreet."
-
-Maak één taak slimmer, test haar veilig en draag de werkwijze over.
-
-Bekijk workflow & pilot →
-
-### "Ik wil geen losse dingen, maar een plan."
-
-Werk in een vast ritme aan gebruik, verbetering en gecontroleerde uitbreiding.
-
-Bekijk het Partnership →
+De huidige intake is gericht op Nederlandse MKB-bedrijven. Reguliere opdrachten en los aanbod voor andere doelgroepen staan op hold. Het bredere aanbod wordt verwacht in 2027; er is nog geen vaste startdatum.
 
 ---
 
-## Pagina: AI voor publieke en maatschappelijke organisaties | GVI
+## Pagina: Publieke & maatschappelijke organisaties — verwacht in 2027 | GVI
 
 URL: https://www.globalvoiceintelligence.com/voor-publieke-organisaties/
 
-Voor wie · publieke & maatschappelijke organisaties
+Expertise · aanbod verwacht in 2027
 
-# AI met publieke waarden
+# Publieke & maatschappelijke organisaties
 
-AI kan het publieke werk verlichten — als uitlegbaarheid, gegevensbescherming en menselijke maat vanaf het begin meegaan.
+AI verbinden met publieke waarden, uitvoerbaarheid en verantwoordelijkheid.
 
-Plan een verkennend gesprek
+Dit aanbod staat op hold. Er is nog geen vaste startdatum; GVI neemt hiervoor nu geen opdrachten aan.
 
-## Herken je dit?
+## De inhoudelijke blik
 
-- Er wordt al met AI geëxperimenteerd, maar het overzicht ontbreekt.
+Publieke organisaties moeten waarde kunnen afwegen tegen zorgvuldigheid, gegevensbescherming en uitlegbaarheid. Iris brengt ervaring met beleid en de publieke werkpraktijk mee in deze vragen.
 
-- AI Act en AVG moeten werkbaar landen zonder papieren tijger.
+Lees de kennis en whitepapers →
 
-- Beleid en uitvoering spreken niet dezelfde taal over AI.
+Wat nu wel past
 
-Van probleem naar oplossing
+## Founding voor het Nederlandse MKB
 
-## Zo helpt Global Voice Intelligence
+De huidige intake is uitsluitend de Founding Instap rond één afgebakende AI Operations-workflow. Deelname, onderzoek en een eventuele pilot worden vooraf samen afgebakend.
 
-### "We moeten aantoonbaar op orde zijn."
-
-Breng gebruik, verantwoordelijkheden, gegevens, leveranciers en toezicht samen in één bestuurbaar beeld.
-
-Bekijk de organisatiescan →
-
-### "We moeten AI-geletterdheid aantoonbaar ondersteunen."
-
-Bouw geletterdheid op in het echte werk en documenteer de gekozen maatregelen.
-
-Bekijk het programma →
-
-### "We willen eerst overzicht, geen groot traject."
-
-Vergelijk binnen één werkgebied meerdere kansen en maak de beste workflow pilotklaar.
-
-Bekijk de Sprint →
-
-### "We willen kiezen zonder lock-in."
-
-Houd gebruik, governance, adoptie en volgende keuzes in een vast ritme bestuurbaar.
-
-Bekijk het Partnership →
+Bekijk de Founding Instap
 
 ---
 
-## Pagina: Voor wie — van solofounder tot publieke organisatie | GVI
+## Pagina: Voor wie — Founding voor Nederlandse MKB-bedrijven | GVI
 
 URL: https://www.globalvoiceintelligence.com/voor-wie/
 
-Klantcontexten
+Founding Instap
 
-# Voor wie we werken
+# Voor het Nederlandse MKB
 
-De beste eerste stap hangt niet alleen af van omvang of sector. Ze hangt af van het werk dat vastloopt, de beslissing die voorligt en wie daar eigenaarschap voor kan nemen.
+Je wilt weten waar AI tijd, kosten of kwaliteit kan verbeteren en of de opbrengst opweegt tegen de investering. We onderzoeken één concreet werkproces, samen met de mensen die het uitvoeren.
 
-Waar herken jij jezelf?
+Bekijk de Founding Instap
 
-## Vijf situaties, vijf verschillende beginvragen
+## Wanneer past het?
 
-Zelf beslissen · snel schakelen
+- De vraag is af te bakenen tot één workflow.
 
-### ZZP & solofounders
+- Een interne opdrachtgever kan keuzes maken.
 
-Je bedrijf draait voor een groot deel op jou. Administratie, klantopvolging, research, content en verschillende apps vragen voortdurend aandacht.
+- De betrokken mensen maken tijd voor onderzoek en eerlijke feedback.
 
-De kernvraag: welke kleine AI-werkwijze geeft direct tijd terug zonder extra technisch beheer, onnodige abonnementen of verlies van jouw eigen stem?
+- Toegang, gegevensgebruik en verantwoordelijkheid kunnen vooraf worden afgesproken.
 
-Bespreek je grootste tijdlek →
+We bespreken eerst de werkvraag en bepalen samen of deelname passend is. Scope en planning worden pas daarna vastgelegd.
 
-Capaciteit · marge · groei
+## Andere vragen
 
-### Kleinbedrijf & MKB
-
-Je hebt processen en klanten, maar geen groot intern AI-team. Microsoft 365 en verschillende applicaties lossen delen op, terwijl informatie en handwerk ertussen blijven zitten.
-
-De kernvraag: waar verlaagt AI aantoonbaar kosten, maakt het capaciteit vrij of verbetert het omzet, service of kwaliteit?
-
-Naar de bedrijvenroute →
-
-Dagelijks werk · kwaliteit · afspraken
-
-### Teams
-
-Mensen gebruiken AI al, maar niet op dezelfde manier. De één wint tijd, de ander vertrouwt het niet en gezamenlijke kwaliteitsafspraken ontbreken.
-
-De kernvraag: hoe maakt AI het echte teamwerk sneller en beter, terwijl duidelijk blijft wat mensen controleren, beslissen en samen leren?
-
-Bekijk teamsessies en werkvormen →
-
-Koers · investering · eigenaarschap
-
-### MT & directie
-
-AI verschijnt in budgetten, projecten en verwachtingen. Maar initiatieven zijn versnipperd en het is niet helder welke investering werkelijk bijdraagt aan de organisatiedoelen.
-
-De kernvraag: waar sturen we op — kosten, opbrengst, kwaliteit of publieke waarde — en wie is eigenaar van resultaat, risico en vervolg?
-
-Bekijk de AI Operations-route →
-
-Uitlegbaar · zorgvuldig · bestuurbaar
-
-### Publiek & maatschappelijk
-
-Waarde alleen is niet genoeg. Besluiten moeten uitlegbaar zijn, gegevens vragen extra zorg en inkoop, toezicht en publieke waarden begrenzen de route.
-
-De kernvraag: waar helpt AI burgers, professionals en organisatie aantoonbaar — en hoe houden we dat verantwoord en bestuurbaar?
-
-Naar de publieke route →
-
-Heb je een andere vraag?
-
-Leg je vraag voor
+De huidige intake is gericht op Nederlandse MKB-bedrijven. Reguliere opdrachten en los aanbod voor andere doelgroepen staan op hold. Het bredere aanbod wordt verwacht in 2027; er is nog geen vaste startdatum.
